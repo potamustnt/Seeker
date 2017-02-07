@@ -1,0 +1,708 @@
+{
+  "settings": {
+    "name": "MSeeker",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.10.4",
+    "uniqCompNum": 96,
+    "versionPublish": "3.11.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#1abc9c"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "24px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#1abc9c",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bloodhound-103x128-96.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Seeker Investment Innovation LLC",
+              "link": "index.html",
+              "title": "Seeker",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Investment Innovation LLC</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/WhatItCanDo.aspx\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/UsingSeeker.aspx\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Seeker.aspx\">Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Finder.aspx\">Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Prices.aspx\">Prices</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Customize.aspx\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-size": "100px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#e1170c"
+            },
+            "I": {
+              "color": "#fac51c",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header4-15",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": true,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "SEEKER",
+          "text": "<i>Using correlation to find investment opportunities</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p",
+          "title": "<i>THE POWER OF CORRELATION</i>",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-q",
+          "text": "<p>Many investors use sector analysis to find stocks, because they believe the performance of sector groups to be similar, and that sector performance can be determined from economic trends. But sector analysis is static and historical, and in ‘Using Seeker’ we correlate the Healthcare sector in 2015 to show that while some stocks match others perfectly, a large number show no relationship at all, See Healthcare example! &nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-v",
+          "text": "<p>Seeker uses correlation to match hundreds of stocks, portfolios and indexes, in seconds. Correlation helps you find industry-wide investment opportunities. speed makes you productive.</p><p>Seeker implements correlation in four applications:</p><ul><li><span style=\"font-size: 17px;\">Period Analysis. Match any combination of stocks and portfolios, indexes and ETFs, in sectors, groups and watchlists (or all of them) for positive or negative (hedging) correlation.</span><br></li><li>Phase Analysis. Correlation with phase offsets.</li><li>Autocorrelation.</li><li>Portfolio Style. Changes in portfolio performance relative to all of our indexes over time.</li></ul><p>After correlation, compare relative alpha and beta. Drill-down on matches with Period Analysis.</p>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": false,
+                "image": "images/slide1.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Slide 1",
+                "showText": true,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "images/slide2.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Slide 2",
+                "showText": true,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "images/slide3.jpg",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Slide 3",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/2016-10-21-alpha-healthcarevsall-2000x326.png",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Slide 2",
+                "showText": true,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "images/slide2.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Slide 2",
+                "showText": true,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2016-10-21-alpha-healthcarevsall-2000x326.png",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Slide 2",
+                "showText": true,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2016-10-21-portfolioanalysischart-proprietary-2000x757-34.png",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Slide 2",
+                "showText": true,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2016-10-21-autocorrelation-industrial-all-2000x504-14.png",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Slide 1",
+                "showText": true,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "images/slide1.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Slide 1",
+                "showText": true,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2016-10-21-portfolioanalysischart-proprietary-2000x757-34.png",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Slide 2",
+                "showText": true,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2016-10-21-portfolioanalysischart-proprietary-2000x757-34.png",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Slide 2",
+                "showText": true,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2016-10-21-portfolioanalysischart-proprietary-2000x757-34.png",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Slide 2",
+                "showText": true,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#000000",
+            "showBullets": true
+          },
+          "_anchor": "slider-1b",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-y",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "FOR EXAMPLE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Click Run Seeker to run live correlations. Click Period Analysis to compare 159 Healthcare stocks with 1,504 indexes active during 2015. These 240,000 pairs produced 3 whose correlation was over 99% (in 6 seconds). See how closely some indexes tracked United Therapeutics, HCA and Masimo. Would correlated indexes have lower volatility than stocks?</p><p><br></p>",
+          "button": "   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-z",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "TRY IT NOW!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>\"Run Seeker\" lets you select any of the four applications, then Run them to see how fast it is.</p><p>\"Applications\" suggests ideas on how you might use it.</p><p>\"Using Seeker\"shows how to run different applications and their output. </p><p>\"Technical\" gives detail on the analytics and how to test the significance of the correlation you see.&nbsp;</p><p>\"Customize\" is where users add stock, index, ETF watch lists and their own portfolios.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://iilseeker/com/Seeker.aspx\" data-toolbar=\"-mbrBtnMove\">RUN SEEKER</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WHAT IT CAN DO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">USING SEEKER</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TECHNICAL</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://iilseeker.com/Prices\" data-toolbar=\"-mbrBtnMove\">TAKE A TRIAL</a>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“We valued this capability at over $100K.year\"</p>",
+              "authorName": "Hedge Fund Manager",
+              "authorBio": ""
+            },
+            {
+              "text": "",
+              "authorName": "",
+              "authorBio": ""
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Seeker, in seconds, saved me days of work!\"</p>",
+              "authorName": "Their Analyst",
+              "authorBio": ""
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-reviews__text P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "24px"
+            },
+            ".mbr-reviews__author-name": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“We valued this capability at over $100K.year\"</p>",
+              "authorName": "Hedge Fund Manager",
+              "authorBio": ""
+            },
+            {
+              "text": "",
+              "authorName": "",
+              "authorBio": ""
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Seeker, in seconds, saved me days of work!\"</p>",
+              "authorName": "Their Analyst",
+              "authorBio": ""
+            }
+          ],
+          "_anchor": "testimonials1-t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "TESTIMONIAL"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "pricing-table1-11",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "hidden",
+            "showButtons": false,
+            "secondType": "hidden",
+            "thirdType": "favorite",
+            "fourthType": "orange",
+            "fifthType": "hidden"
+          },
+          "title1": "TRIAL",
+          "currency1": "$",
+          "price1": "0",
+          "period1": "",
+          "list1": "<ul><li><b>14 days</b></li><li><b>Data excludes last 2 years</b></li><li><b>Limited run time</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title2": "MONTHLY",
+          "currency2": "$",
+          "price2": "50",
+          "period2": "",
+          "list2": "<ul><li>Automatic renewal</li><li><br></li><li><br></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "title3": "ANNUAL",
+          "currency3": "$",
+          "price3": "500",
+          "period3": "",
+          "list3": "<ul><li><br></li><li><br></li><li><br></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "title4": "TRIAL",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "",
+          "list4": "<ul><li><b>14 days</b></li><li><b>Data excludes last 2 years</b></li><li><b>Limited run time</b></li><li><b><br></b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fac51c"
+            },
+            "UL": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "contacts1-u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
+          "text2": "<p><strong>CONTACTS</strong><br>\nEmail: petergregory@computer.org<br>\nPhone: 9189SEEKER &nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;((918)973-3537<br><br></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Correlation</li><li>Factor anlysis</li><li>Fama-French</li></ul><p>Terms and Conditions</p>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Web Page Creator Title",
+        "meta_descr": "Web Page Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#1abc9c"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "24px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2l",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#1abc9c",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": true,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bloodhound-103x128-96.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Seeker Investment Innovation LLC",
+              "link": "index.html",
+              "title": "Seeker",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Investment Innovation LLC</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/WhatItCanDo.aspx\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/UsingSeeker.aspx\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Seeker.aspx\">Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Finder.aspx\">Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Prices.aspx\">Prices</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Customize.aspx\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fac51c"
+            },
+            "UL": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "contacts1-2m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
+          "text2": "<p><strong>CONTACTS</strong><br>\nEmail: petergregory@computer.org<br>\nPhone: 9189SEEKER &nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;((918)973-3537<br><br></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Correlation</li><li>Factor anlysis</li><li>Fama-French</li></ul><p>Terms and Conditions</p>"
+        }
+      ]
+    }
+  }
+}
