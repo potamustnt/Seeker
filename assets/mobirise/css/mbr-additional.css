@@ -1,37 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-#menu-2l .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-2l.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-2l .mbr-navbar__section {
-  background: #000000;
-}
-#menu-2l .mbr-navbar__hamburger {
-  color: #1abc9c;
-}
-#menu-2l .mbr-brand__name a {
-  font-size: 24px;
-}
-#menu-2l .mbr-navbar__items a {
-  font-size: 14px;
-}
-#msg-box3-34 .mbr-header .mbr-header__text {
-  text-align: left;
-}
-#msg-box3-34 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#contacts1-2m P {
-  color: #fac51c;
-}
-#contacts1-2m UL {
-  color: #fac51c;
-}
-
-
 
 
 
@@ -98,28 +66,42 @@
 #msg-box3-z .mbr-article P {
   font-family: 'Montserrat', sans-serif;
 }
-#testimonials1-2x .mbr-reviews__text P {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 24px;
+#testimonials1-2v .mbr-reviews__text P {
+  font-size: 20px;
 }
-#testimonials1-2x .mbr-reviews__author-name {
-  font-size: 24px;
+#testimonials1-2v .mbr-reviews__author-name {
+  font-size: 20px;
 }
 #pricing-table1-11 H3 {
   text-align: center;
-}
-#msg-box3-36 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-36 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-36 .mbr-article P {
-  font-family: 'Montserrat', sans-serif;
 }
 #contacts1-u P {
   color: #fac51c;
 }
 #contacts1-u UL {
+  color: #fac51c;
+}
+#menu-2l .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2l.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-2l .mbr-navbar__section {
+  background: #000000;
+}
+#menu-2l .mbr-navbar__hamburger {
+  color: #1abc9c;
+}
+#menu-2l .mbr-brand__name a {
+  font-size: 24px;
+}
+#menu-2l .mbr-navbar__items a {
+  font-size: 14px;
+}
+#contacts1-2m P {
+  color: #fac51c;
+}
+#contacts1-2m UL {
   color: #fac51c;
 }
