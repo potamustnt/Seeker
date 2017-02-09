@@ -4,6 +4,7 @@
 
 
 
+
 #menu-2 .mbr-brand__name {
   font-size: 16px;
 }
@@ -77,22 +78,20 @@
 #pricing-table1-11 H3 {
   text-align: center;
 }
+#msg-box3-36 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-36 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-36 .mbr-article P {
+  font-family: 'Montserrat', sans-serif;
+}
 #contacts1-u P {
   color: #fac51c;
 }
 #contacts1-u UL {
   color: #fac51c;
-}
-#content5-2s .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-2s .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-2s .mbr-article {
-  color: #fff;
 }
 #menu-2l .mbr-brand__name {
   font-size: 16px;
@@ -111,6 +110,12 @@
 }
 #menu-2l .mbr-navbar__items a {
   font-size: 14px;
+}
+#msg-box3-34 .mbr-header .mbr-header__text {
+  text-align: left;
+}
+#msg-box3-34 .mbr-header .mbr-header__subtext {
+  text-align: center;
 }
 #contacts1-2m P {
   color: #fac51c;
