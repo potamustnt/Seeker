@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "MSeeker",
-    "currentPage": "index.html",
+    "currentPage": "default.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 104,
+    "uniqCompNum": 126,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -16,7 +16,974 @@
     "noImageResize": ""
   },
   "pages": {
-    "index.html": {
+    "terms.html": {
+      "settings": {
+        "title": "Web Page Creator Title",
+        "meta_descr": "Web Page Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#1abc9c"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "24px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2l",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#1abc9c",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": true,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bloodhound-103x128-96.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Seeker Investment Innovation LLC",
+              "link": "index.html",
+              "title": "Seeker",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Investment Innovation LLC</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/WhatItCanDo.aspx\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/UsingSeeker.aspx\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Seeker.aspx\">Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Finder.aspx\">Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Prices.aspx\">Prices</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Customize.aspx\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-36",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "TERMS OF SERVICE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span style=\"font-size: 17px;\">These Terms of Service (\"our Agreement\") are entered into by Investment Innovation LLC (\"IIL\") and the executor of this Agreement (\"you\"). Our Agreement governs your use of the standard IIL service (\" IIL Service\"). Your acknowledgement of, and committment to, these terms is validated when, in registration, you check the box acknowledging acceptance, when you sign up to use the service, and when you login by clicking the \"Login\" button. Acknowledgement means that you have reviewed our Agreement to your satisfaction, have accepted its terms, and are authorized to make a binding agreement on behalf of the organization that you represent. In consideration of the foregoing, IIL and you agree as follows:</span><br></p><p><br></p><p>1. Definitions</p><p><span style=\"font-size: 17px;\">\"Account\" refers to the billing account for IIL Service. \"Confidential Information\" includes any proprietary data and any other information disclosed between IIL and you in writing and marked \"confidential\" or disclosed orally and, within five business days, reduced to writing and marked \"confidential\". However, Confidential Information will not include any information that is or becomes known to the general public, which is already in the receiving party's possession prior to disclosure by a party or which is independently developed by the receiving party without the use of Confidential Information. \"Customer Data\" means the data that you enter into IIL facilities for your exclusive use. It also refers to data that you collect, process or output using IIL Service. \"Documentation\" means any documentation made available to you by IIL, including any documentation available online. \"Report\" means any output from an analysis produced by IIL Service from data that you provided. \"Properties\" means the computer equipment necessary for you to communicate with IIL Services, and locational facilities provided to you for that purpose.. \"Processing Software\" means the IIL server-side software and any upgrades, which analyzes the Customer Data and generates the Reports. \"Privacy Policy\" means the privacy policy on a Property. \"Servers\" means the servers controlled by IIL on which the Processing Software and Customer Data are stored. \"Third Party\" means any third party (i) to which you provide access to your Account or (ii) for which you use IIL Service to collect information on the third party's behalf. \"IIL Website\" is the website located at http://iilseeker.com The words \"include\" and \"including\" mean \"including but not limited to.\"&nbsp;</span><br></p><p><br></p><p>2. Fees and Service.&nbsp;</p><p><span style=\"font-size: 17px;\">IIL Service is provided upon payment of the charges listed on the IIL Website. IIL may change its fees and payment policies for IIL Service from time to time. Changes to the fees or payment policies are effective when posted on the IIL Website. All fees are quoted in U.S. Dollars. Any outstanding balance becomes immediately due and payable upon termination of this Agreement and any collection expenses (including attorneys' fees) incurred by IIL will be included in the amount owed, and may be charged to the credit card or other billing mechanism associated with your account. Free trial usage of IIL Service is provided subject to restrictions listed on the IIL Website; these are subject to change at any time and without notice.&nbsp;</span><br></p><p><br></p><p>3. Member Account, Password, and Security.</p><p><span style=\"font-size: 17px;\">To register for IIL Service, you must complete the registration process by providing IIL with current, complete and accurate information as prompted by the registration form, including your e-mail address and password. You will protect your passwords and take full responsibility for your own, and third party, use of your accounts. You are solely responsible for any and all activities that occur under your Account. You will notify IIL immediately upon learning of any unauthorized use of your Account or any other breach of security. IIL's support staff may, from time to time, log in to the Service under your customer password in order to maintain or improve service, including to provide you with assistance on technical or billing issues.&nbsp;</span><br></p><p><br></p><p>4. Nonexclusive License.</p><p><span style=\"font-size: 17px;\">Subject to the terms and conditions of this Agreement, (a) IIL grants you a limited, revocable, non-exclusive, non-sublicensable license for you or your designated Third Party to use IIL Service by remote access. You will not (and you will not allow any third party to) (i) copy, modify, adapt, translate or otherwise create derivative works of the Software or the Documentation; (ii) reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the Software, except as expressly permitted by the law in effect in the jurisdiction in which you are located; (iii) rent, lease, sell, assign or otherwise transfer rights in or to the Software, the Documentation or the Service; (iv) remove any proprietary notices or labels on the Software or placed by the Service; (v) use, post, transmit or introduce any device, software or routine which interferes or attempts to interfere with the operation of the Service or the Software; or (vi) use data labeled as belonging to a third party in the Service for purposes other than generating, viewing, and downloading Reports. You will comply with all applicable laws and regulations in your use of and access to the Documentation, Software, Service and Reports.&nbsp;</span><br></p><p><br></p><p>5. Confidentiality.</p><p><span style=\"font-size: 17px;\">Neither party will use or disclose the other party's Confidential Information without the other's prior written consent except for the purpose of performing its obligations under this Agreement or if required by law, regulation or court order; in which case, the party being compelled to disclose Confidential Information will give the other party as much notice as is reasonably practicable prior to disclosing the Confidential Information.&nbsp;</span><br></p><p><br></p><p>6. Information Rights and Publicity.</p><p><span style=\"font-size: 17px;\">IIL may retain and use, subject to the terms of its privacy policy, information collected in your use of the Service. IIL will not share your Customer Data or any Third Party's Customer Data with any third parties unless IIL (i) has your consent for any Customer Data or any Third Party's consent for the Third Party's Customer Data; (ii) concludes that it is required by law or has a good faith belief that access, preservation or disclosure of Customer Data is reasonably necessary to protect the rights, property or safety of IIL, its users or the public; or (iii) provides Customer Data in certain limited circumstances to third parties to carry out tasks on IIL's behalf (e.g., billing or data storage) with strict restrictions that prevent the data from being used or shared except as directed by IIL. When this is done, it is subject to agreements that oblige those parties to process Customer Data only on IIL's instructions and in compliance with this Agreement and appropriate confidentiality and security measures.</span><br></p><p><br></p><p>7. Privacy.</p><p><span style=\"font-size: 17px;\">You will not (and will not allow any third party to) use the Service to track, collect or upload any data that personally identifies an individual (such as a name, email address or billing information), or other data which can be reasonably linked to such information by IIL. You will have and abide by an appropriate Privacy Policy and will comply with all applicable laws, policies, and regulations relating to the collection of information from Visitors. You must post a Privacy Policy and that Privacy Policy must provide notice of your use of cookies that are used to collect data. You will use commercially reasonable efforts to ensure that a Visitor is provided with clear and comprehensive information about, and consents to, the storing and accessing of cookies or other information on the Visitor’s device where such activity occurs in connection with the Service and where providing such information and obtaining such consent is required by law. You must not circumvent any privacy features (e.g., an opt-out) that are part of the Service.&nbsp;</span><br></p><p><br></p><p>8. Indemnification.</p><p><span style=\"font-size: 17px;\">To the extent permitted by applicable law, you will indemnify, hold harmless and defend IIL and its wholly owned subsidiaries, at your expense, from any and all third-party claims, actions, proceedings, and suits brought against IIL or any of its officers, directors, employees, agents or affiliates, and all related liabilities, damages, settlements, penalties, fines, costs or expenses (including, reasonable attorneys' fees and other litigation expenses) incurred by IIL or any of its officers, directors, employees, agents or affiliates, arising out of or relating to (i) your breach of any term or condition of this Agreement, (ii) your use of the Service, (iii) your violations of applicable laws, rules or regulations in connection with the Service, (iv) any representations and warranties made by you concerning any aspect of the Service, the Software or Reports to any Third Party; (v) any claims made by or on behalf of any Third Party pertaining directly or indirectly to your use of the Service, the Software or Reports; (vi) violations of your obligations of privacy to any Third Party; and (vii) any claims with respect to acts or omissions of any Third Party in connection with the Service, the Software or Reports. IIL will provide you with written notice of any claim, suit or action from which you must indemnify IIL. You will cooperate as fully as reasonably required in the defense of any claim. IIL reserves the right, at its own expense, to assume the exclusive defense and control of any matter subject to indemnification by you.&nbsp;</span><br></p><p><br></p><p>9. Third Parties.</p><p><span style=\"font-size: 17px;\">If you use the Service on behalf of the Third Party or a Third Party otherwise uses the Service through your Account, whether or not you are authorized by IIL to do so, then you represent and warrant that (a) you are authorized to act on behalf of, and bind to this Agreement, the Third Party to all obligations that you have under this Agreement, (b) IIL may share with the Third Party any Customer Data that is specific to the Third Party's Properties, and (c) you will not disclose Third Party's Customer Data to any other party without the Third Party's consent.&nbsp;</span><br></p><p><br></p><p>10. DISCLAIMER OF WARRANTIES.</p><p><span style=\"font-size: 17px;\">TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, EXCEPT AS EXPRESSLY PROVIDED FOR IN THIS AGREEMENT, IIL MAKES NO OTHER WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, ACCURACY OF DATA OR CALCULATIONS BASED ON ANY DATA, OR FITNESS FOR A PARTICULAR USE AND NONINFRINGEMENT.&nbsp;</span><br></p><p><br></p><p>11. DATA.</p><p><span style=\"font-size: 17px;\">IIL NEGOTIATES ARRANGEMENTS WITH DATA VENDORS IN ORDER TO ENABLE YOU TO HAVE ACCESS TO A SOURCE OF DATA FOR ANALYSIS. THAT DATA IS SUBJECT TO ANY TERMS IMPOSED BY THE OWNER OF THE DATA WHICH ARE OUTSIDE IIL'S CONTROL. ACCESS TO DATA AND ITS AVAILABILITY ARE THEREFORE SUBJECT TO CHANGE WITHOUT NOTICE. DATA PROVIDED BY IIL IS MADE AVAILABLE WITH NO WARRANTIES AS TO ACCURACY OR CONTIMUED AVAILABILITY&nbsp;</span><br></p><p><br></p><p>12. LIMITATION OF LIABILITY.</p><p><span style=\"font-size: 17px;\">TO THE EXTENT PERMITTED BY APPLICABLE LAW, IIL WILL NOT BE LIABLE FOR YOUR LOST REVENUES OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, EVEN IF IIL OR ITS SUBSIDIARIES AND AFFILIATES HAVE BEEN ADVISED OF, KNEW OR SHOULD HAVE KNOWN THAT SUCH DAMAGES WERE POSSIBLE AND EVEN IF DIRECT DAMAGES DO NOT SATISFY A REMEDY. IIL'S TOTAL CUMULATIVE LIABILITY TO YOU OR ANY OTHER PARTY FOR ANY LOSS OR DAMAGES RESULTING FROM CLAIMS, DEMANDS, OR ACTIONS ARISING OUT OF OR RELATING TO THIS AGREEMENT WILL NOT EXCEED $500 (USD).&nbsp;</span><br></p><p><br></p><p>13. Proprietary Rights Notice.</p><p><span style=\"font-size: 17px;\">The Service, which includes the Software and all Intellectual Property Rights therein are, and will remain, the property of IIL (and its wholly owned subsidiaries). All rights in and to the Software not expressly granted to you in this Agreement are reserved and retained by IIL and its licensors without restriction, including, IIL's (and its wholly owned subsidiaries') right to sole ownership of the Software and Documentation. Without limiting the generality of the foregoing, you agree not to (and not to allow any third party to): (a) sublicense, distribute, or use the Service or Software outside of the scope of the license granted in this Agreement; (b) copy, modify, adapt, translate, prepare derivative works from, reverse engineer, disassemble, or decompile the Software or otherwise attempt to discover any source code or trade secrets related to the Service; (c) rent, lease, sell, assign or otherwise transfer rights in or to the Software or the Service; (d) use, post, transmit or introduce any device, software or routine which interferes or attempts to interfere with the operation of the Service or the Software; (e) use the trademarks, trade names, service marks, logos, domain names and other distinctive brand features or any copyright or other proprietary rights associated with the Service for any purpose without the express written consent of IIL; (f) register, attempt to register, or assist anyone else to register any trademark, trade name, serve marks, logos, domain names and other distinctive brand features, copyright or other proprietary rights associated with IIL other than in the name of IIL; (g) remove, obscure, or alter any notice of copyright, trademark, or other proprietary right appearing in or on any item included with the Service; or (h) seek, in a proceeding filed during the term of this Agreement or for one year after such term, an injunction of any portion of the Service based on patent infringement.&nbsp;</span><br></p><p><br></p><p>14. U.S. Government Rights.</p><p><span style=\"font-size: 17px;\">If the use of the Service is being acquired by or on behalf of the U.S. Government or by a U.S. Government prime contractor or subcontractor (at any tier), in accordance with 48 C.F.R. 227.7202-4 (for Department of Defense (DOD) acquisitions) and 48 C.F.R. 2.101 and 12.212 (for non-DOD acquisitions), the Government's rights in the Software, including its rights to use, modify, reproduce, release, perform, display or disclose the Software or Documentation, will be subject in all respects to the commercial license rights and restrictions provided in this Agreement.&nbsp;</span><br></p><p><br></p><p>15. Term and Termination.</p><p><span style=\"font-size: 17px;\">Either party may terminate this Agreement at any time with notice. Upon any termination of this Agreement, IIL will stop providing, and you will stop accessing the Service. In the event of termination by IIL you will be entitled to a refund reflecting the residual days of your current license term. In the event of termination by you, you will not be entitled to any refunds of any usage or other fees, and any outstanding balance for Service rendered through the date of termination, will be immediately due and payable in full.&nbsp;</span><br></p><p><br></p><p>16. Modifications to Terms of Service and Other Policies.</p><p><span style=\"font-size: 17px;\">IIL may modify these terms or any additional terms that apply to the Service to, for example, reflect changes to the law or changes to the Service. You should look at the terms regularly. IIL will post notice of modifications to these terms at the IIL Website. Changes will not apply retroactively and will become effective no sooner than 14 days after they are posted. If you do not agree to the modified terms for the Service, you should discontinue your use of IIL Service. No amendment to or modification of this Agreement will be binding unless (i) in writing and signed by a duly authorized representative of IILe, (ii) you accept updated terms online, or (iii) you continue to use the Service after IIL has posted updates to the Agreement or to any policy governing the Service.&nbsp;</span><br></p><p><br></p><p>17. Miscellaneous, Applicable Law and Venue.</p><p><span style=\"font-size: 17px;\">IIL will be excused from performance in this Agreement to the extent that performance is prevented, delayed or obstructed by causes beyond its reasonable control. This Agreement (including any amendment agreed upon by the parties in writing) represents the complete agreement between you and IIL concerning its subject matter, and supersedes all prior agreements and representations between the parties. If any provision of this Agreement is held to be unenforceable for any reason, such provision will be reformed to the extent necessary to make it enforceable to the maximum extent permissible so as to effect the intent of the parties, and the remainder of this Agreement will continue in full force and effect. This Agreement will be governed by and construed under the laws of the state of Florida without reference to its conflict of law principles. In the event of any conflicts between foreign law, rules, and regulations, and Florida law, rules, and regulations, Florida law, rules and regulations will prevail and govern. Each party agrees to submit to the exclusive and personal jurisdiction of the courts located in Naples, Florida. The United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transactions Act do not apply to this Agreement.Any notices to IIL must be sent to: Investment Innovation LLC, 4734 Stratford Court, # 1702, Naples FL 34105, via first class or air mail or overnight courier, and are deemed given upon receipt. A waiver of any default is not a waiver of any subsequent default. You may not assign or otherwise transfer any of your rights in this Agreement without IIL's prior written consent, and any such attempt is void. The relationship between IIL and you is not one of a legal partnership relationship, but is one of independent contractors. This Agreement will be binding upon and inure to the benefit of the respective successors and assigns of the parties hereto. The following sections of this Agreement will survive any termination thereof: 1, 4, 5, 6 (except the last two sentences), 7, 8, 9, 10, 11, 12, 14, and 16.&nbsp;</span><br></p><p><br></p><p>DISCLAIMER FOR INFORMATION PROVIDED BY INVESTMENT INNOVATION LLC</p><p><span style=\"font-size: 17px;\">The website and its content are copyrighted works of IIL and/or its licensors. You have permission from InvestmentInnovation LLC to view the website and its content and make copies of the content displayed on this website for viewing through the normal operation of your web browser or for printouts that may be considered \"fair use\" under applicable copyright laws. All other rights are reserved by InvestmentInnovation LLC. IIL trademarks and service marks displayed on this website are exclusively owned by IIL. IIL provides access to this website and its contents on an \"as is\" and \"as available\" basis. IIL and its licensors specifically disclaim any representations, warranties, and conditions, whether express or implied, including, without limitation, any representations, warranties or conditions (a) of accuracy, completeness, title, noninfringement, merchantability or fitness for a particular purpose, or (b) arising from usage in any trade or from any course of dealing. We may make changes to the information on this website at and time without prior notice to you. IIL does not provide investment advice or advocate the purchase or sale of any security or investment. You should always seek the assistance of a professional for investment advice. Performance figures contained herein are hypothetical, unaudited and prepared by Investment Innovation LLC; hypothetical results are intended for illustrative purposes only. Past performance is not indicative of future results, which may vary. There is a risk of substantial loss associated with trading commodities, futures, options and other financial instruments. Before trading, investors should carefully consider their financial position and risk tolerance to determine if the proposed trading style is appropriate. Investors should realize that when trading futures, commodities and/or granting/writing options one could lose the full balance of their account. It is also possible to lose more than the initial deposit when trading futures and/or granting/writing options. All funds committed to such a trading strategy should be purely risk capital. Hypothetical performance results (e.g., quantitative backtests) have many inherent limitations, some of which, but not all, are described herein. No representation is being made that any fund or account will or is likely to achieve profits or losses similar to those shown herein. In fact, there are frequently sharp differences between hypothetical performance results and the actual results subsequently realized by any particular trading program. One of the limitations of hypothetical performance results is that they are generally prepared with the benefit of hindsight. In addition, hypothetical trading does not involve financial risk, and no hypothetical trading record can completely account for the impact of financial risk in actual trading. For example, the ability to withstand losses or adhere to a particular trading program in spite of trading losses are material points which can adversely affect actual trading results. The hypothetical performance results contained herein represent the application of the quantitative models as currently in effect on the date first written above and there can be no assurance that the models will remain the same in the future or that an application of the current models in the future will produce similar results because the relevant market and economic conditions that prevailed during the hypothetical performance period will not necessarily recur. There are numerous other factors related to the markets in general or to the implementation of any specific trading program which cannot be fully accounted for in the preparation of hypothetical performance results, all of which can adversely affect actual trading results. Hypothetical performance results are presented for illustrative purposes only. Indexes are unmanaged, do not reflect management or trading fees, and one cannot invest directly in an index. There is no guarantee, express or implied, that long-term return and/or volatility targets will be achieved. Realized returns and/or volatility may come in higher or lower than expected.&nbsp;</span><br></p><p>&nbsp;</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fac51c"
+            },
+            "UL": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "contacts1-2m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
+          "text2": "<p><strong>CONTACTS</strong><br>\nEmail: petergregory@computer.org<br>\nPhone: 9189SEEKER &nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;((918)973-3537<br><br></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Correlation</li><li>Factor anlysis</li><li>Fama-French</li></ul><p>Terms and Conditions</p>"
+        }
+      ]
+    },
+    "prices.html": {
+      "settings": {
+        "title": "Web Generator Title",
+        "meta_descr": "Web Generator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#1abc9c"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "24px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2x",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#1abc9c",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": true,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bloodhound-103x128-96.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Seeker Investment Innovation LLC",
+              "link": "index.html",
+              "title": "Seeker",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Investment Innovation LLC</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/WhatItCanDo.aspx\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/UsingSeeker.aspx\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Seeker.aspx\">Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Finder.aspx\">Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Prices.aspx\">Prices</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Customize.aspx\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fac51c"
+            },
+            "UL": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "contacts1-2y",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
+          "text2": "<p><strong>CONTACTS</strong><br>\nEmail: petergregory@computer.org<br>\nPhone: 9189SEEKER &nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;((918)973-3537<br><br></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Correlation</li><li>Factor anlysis</li><li>Fama-French</li></ul><p>Terms and Conditions</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-35",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "PRICING",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span style=\"font-size: 17px;\">We are committed to the ongoing enhancement of Seeker, and to the development of additional products.</span></p><p><span style=\"font-size: 17px;\">Annual subscription includes access to all Seeker enhancements released during the license period.&nbsp;</span></p><p><span style=\"font-size: 17px;\">Support is included in the annual charge.</span></p><p>Seeker customization allows users to add their own portfolios, and watchlists of stocks, indexes and ETFs. There is no charge for this.</p><p>Seeker can accomodate unique customer data for stock, index and ETF pricing. Prices for doing so will be individually negotiated based on level of effort.&nbsp;</p><p><span style=\"font-size: 17px;\">Renewal will be available at the price currently offered, but existing customers are entitled to an ongoing 20% annual reduction in charges on the product that they have subscribed to.&nbsp;</span></p><p><span style=\"font-size: 17px;\">By applying for Seeker service, whether trial or subscription, users acknowledge that they have read and accept the terms of service &nbsp;available on this website.&nbsp;</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://iilseeker.com/Registration.aspx\" data-toolbar=\"-mbrBtnMove\">LET ME SUBSCRIBE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"terms.html\" data-toolbar=\"-mbrBtnMove\">TERMS OF SERVICE</a>     "
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#1abc9c"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "24px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-37",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#1abc9c",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bloodhound-103x128-96.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Seeker Investment Innovation LLC",
+              "link": "index.html",
+              "title": "Seeker",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Investment Innovation LLC</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/WhatItCanDo.aspx\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/UsingSeeker.aspx\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Seeker.aspx\">Run Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Finder.aspx\">Run Factors</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Prices.aspx\">Prices</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Customize.com\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com.Technical.aspx\">Technical&nbsp;<br><br></a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-size": "100px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#e1170c"
+            },
+            "I": {
+              "color": "#fac51c",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header4-38",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": true,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "SEEKER",
+          "text": "<i><br></i><br><i>Using correlation and factor analysis to find and qualify investment opportunities</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-39",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "CORRELATION AND FACTOR ANALYSIS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Correlation matches the actual behavior of two entities, over any timeframe. It is an alternative to sector analysis because, while sector definitions are static, correlation is dynamic. We show an example, in ‘Using Seeker’, where we correlated the Healthcare sector with itself in 2015. While some stocks track perfectly, a large number show no relationship at all! &nbsp;</p><p><br></p><p>Factor analysis evaluates the sources of performance. We use the methodology developed by Professors Fama and French at the University of Chicago to evaluate which factors drive the performance of portfolios, stocks, and indexes (see \"Technical\").&nbsp;</p><p><br></p><p>In addition to single pairs of stocks, indexes, ETFs or portfolios, Seeker processes groups of hundreds, at very high speed, to analyze entire industry-wide opportunities. It is very productive.</p><p><br></p><p>10 years of data, 2,900 stocks, 1,500 indexes, 1,300 ETF's. You can find positive and negative correlations in pairs, groups, industries and markets. Add your own portfolios and watchlists, we can even instal your own data for you to use!&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "text-align": "left"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features1-3a",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": false,
+            "columns": "2",
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "SEEKER APPS",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "CORRELATION",
+          "caption1": "•Period Analysis correlates stocks, portfolios, indexes and ETFs.<br>•Phase Analysis uses phase offsets to reveal leading indicators.<br>•Autocorrelation shows cyclical behavior.<br>•Portfolio Style measures changes in style over time.<br><br>See slider below for an example of Period Analysis (blue header) showing overall and sub-interval summary and detail (truncated). Other examples can be found in Using Seeker.<br><br><br><br> ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "FACTOR ANALYSIS",
+          "caption2": "•3 or 5 factor analysis based on the parameters developed by University of Chicago Professors Eugene Fama and Kenenth French.<br>•Style analysis measures how factor relationships have changed over time.(in development)<br>.<br>Use slider below for an example of Factor Analysis (green header). 72% of the return of the Equity1 portfolio can be attributed to the factors RmMfr, SMB, HML but only RmMfr is significant. For more detail see Technical.<br><br><br><br><br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/findersample-2000x281.jpg",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/seekersample-2000x275.jpg",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#000000",
+            "showBullets": false
+          },
+          "_anchor": "slider-3b",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3c",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "TRY IT NOW",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Click Correlation - Period Analysis to compare 159 Healthcare stocks with 1,504 indexes active during 2015. You will see that these 240,000 pairs produced 3 whose correlation was over 99% (in 6 seconds). See how closely some indexes tracked United Therapeutics, HCA and Masimo. Would indexes with similar performance have lower volatility than stocks?</p><p>Every app. is set up to run a live example; try them all!</p>",
+          "button": "   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://localhost/Seeker.aspx\" data-toolbar=\"-mbrBtnMove\">RUN CORRELATION</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://iilseeker.com/Finder.aspx\" data-toolbar=\"-mbrBtnMove\">RUN FACTORS&nbsp;</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3d",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "EXPLORE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span style=\"font-size: 17px;\">\"Applications\" suggests ideas on how you might use it.</span><br></p><p>\"Using Seeker\"shows how to run different applications and their output.</p><p> </p><p>\"Technical\" gives detail on the analytics and how to test significance.&nbsp;</p><p>\"Customize\" is where signed up users add stock, index, ETF watch lists and their own portfolios.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://iilseeker/com/WhatItCanDo.aspx\" data-toolbar=\"-mbrBtnMove\">APPLICATIONS<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://iilseeker.com/UsingSeeker.aspx\" data-toolbar=\"-mbrBtnMove\">USING SEEKER</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://iilseeker.com/Technical.aspx\" data-toolbar=\"-mbrBtnMove\">TECHNICAL</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://iilseeker.com/Customize.html\" data-toolbar=\"-mbrBtnMove\">CUSTOMIZE</a> "
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“We valued this capability at over $100K/year”</p>",
+              "authorName": "Hedge Fund Partner",
+              "authorBio": ""
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Seeker, in seconds, saved me days of work!\"</p>",
+              "authorName": "Their Analyst",
+              "authorBio": ""
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-reviews__text P": {
+              "font-size": "20px"
+            },
+            ".mbr-reviews__author-name": {
+              "font-size": "20px"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“We valued this capability at over $100K/year”</p>",
+              "authorName": "Hedge Fund Partner",
+              "authorBio": ""
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Seeker, in seconds, saved me days of work!\"</p>",
+              "authorName": "Their Analyst",
+              "authorBio": ""
+            }
+          ],
+          "_anchor": "testimonials1-3e",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "count": "2",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "TESTIMONIAL"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "pricing-table1-3f",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "green",
+            "showButtons": false,
+            "secondType": "orange",
+            "thirdType": "hidden",
+            "fourthType": "hidden",
+            "fifthType": "hidden"
+          },
+          "title1": "SUBSCRIPTION",
+          "currency1": "$",
+          "price1": "500",
+          "period1": "",
+          "list1": "<ul><li><b>All features</b></li><li><b>1 year</b></li><li><b>Support &amp; Enhancement&nbsp;</b></li><li><b><br></b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title2": "14 DAY TRIAL",
+          "currency2": "$",
+          "price2": "0",
+          "period2": "",
+          "list2": "<ul><li>14 days</li><li>Data excludes last 2 yearsl</li><li>Limited to 1M combinations</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "title3": "ANNUAL",
+          "currency3": "$",
+          "price3": "500",
+          "period3": "",
+          "list3": "<ul><li><br></li><li><br></li><li><br></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "title4": "TRIAL",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "",
+          "list4": "<ul><li><b>14 days</b></li><li><b>Data excludes last 2 years</b></li><li><b>Limited run time</b></li><li><b><br></b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3g",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "SIGN UP!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>I WANT SEEKER takes you to prices, terms, and registration.</p><p>FREE TRIAL takes you to limited registration and trial restrictions.</p>",
+          "button": "   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"http://localhost/Seeker.aspx\" data-toolbar=\"-mbrBtnMove\">I WANT SEEKER</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://iilseeker.com/Finder.aspx\" data-toolbar=\"-mbrBtnMove\">FREE TRIAL&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fac51c"
+            },
+            "UL": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "contacts1-3h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
+          "text2": "<p><strong>CONTACTS</strong><br>\nEmail: petergregory@computer.org<br>\nPhone: 9189SEEKER &nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;((918)973-3537<br><br></p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Correlation</li><li>Factor anlysis</li><li>Fama-French</li></ul><p>Terms and Conditions</p>"
+        }
+      ]
+    },
+    "default.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -489,6 +1456,14 @@
             "Theme"
           ],
           "_name": "testimonials1",
+          "_styles": {
+            ".mbr-reviews__text P": {
+              "font-size": "20px"
+            },
+            ".mbr-reviews__author-name": {
+              "font-size": "20px"
+            }
+          },
           "testimonial": [
             {
               "text": "<p class=\"mbr-reviews__p\">“We valued this capability at over $100K/year”</p>",
@@ -505,6 +1480,9 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
+            "count": "2",
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -513,20 +1491,9 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "count": "2",
-            "showName": true,
-            "showBio": true
+            "showTitle": true
           },
-          "header": "TESTIMONIAL",
-          "_styles": {
-            ".mbr-reviews__text P": {
-              "font-size": "20px"
-            },
-            ".mbr-reviews__author-name": {
-              "font-size": "20px"
-            }
-          }
+          "header": "TESTIMONIAL"
         },
         {
           "_tags": [
@@ -593,112 +1560,49 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#fac51c"
-            },
-            "UL": {
-              "color": "#fac51c"
-            }
-          },
-          "_anchor": "contacts1-u",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2w",
           "_params": {
-            "paddingTop": "1",
+            "showCaption": true,
+            "paddingTop": "2",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#3C3C3C"
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
           },
-          "logo": {
-            "image": {
-              "src": "images/footer-logo.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
-          "text2": "<p><strong>CONTACTS</strong><br>\nEmail: petergregory@computer.org<br>\nPhone: 9189SEEKER &nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;((918)973-3537<br><br></p>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Correlation</li><li>Factor anlysis</li><li>Fama-French</li></ul><p>Terms and Conditions</p>"
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "title": "Web Page Creator Title",
-        "meta_descr": "Web Page Creator Description"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#000000"
-            },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#1abc9c"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "24px"
-            },
-            ".mbr-navbar__items a": {
-              "font-size": "14px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-2l",
-          "_params": {
-            "color": "#000000",
-            "hamburgerColor": "#1abc9c",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": true,
-            "logo": false,
-            "showBrand": true,
-            "showButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bloodhound-103x128-96.jpg",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Seeker Investment Innovation LLC",
-              "link": "index.html",
-              "title": "Seeker",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Investment Innovation LLC</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/WhatItCanDo.aspx\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/UsingSeeker.aspx\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Seeker.aspx\">Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Finder.aspx\">Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Prices.aspx\">Prices</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://localhost/Customize.aspx\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li>   ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "title": "SIGN UP!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>I WANT SEEKER takes you to prices, terms, and registration.</p><p>FREE TRIAL takes you to limited registration and trial restrictions.</p>",
+          "button": "   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"http://Prices.aspx\" data-toolbar=\"-mbrBtnMove\">I WANT SEEKER</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://Registration.aspx\" data-toolbar=\"-mbrBtnMove\">FREE TRIAL&nbsp;</a>"
         },
         {
           "_tags": [
@@ -713,7 +1617,7 @@
               "color": "#fac51c"
             }
           },
-          "_anchor": "contacts1-2m",
+          "_anchor": "contacts1-u",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
