@@ -31,6 +31,15 @@
   color: #fac51c;
 }
 
+#msg-box3-35 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-35 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-35 .mbr-article P {
+  font-family: 'Montserrat', sans-serif;
+}
 #menu-2x .mbr-brand__name {
   font-size: 16px;
 }
@@ -54,15 +63,6 @@
 }
 #contacts1-2y UL {
   color: #fac51c;
-}
-#msg-box3-35 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-35 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-35 .mbr-article P {
-  font-family: 'Montserrat', sans-serif;
 }
 
 
