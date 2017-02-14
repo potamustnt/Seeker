@@ -31,6 +31,17 @@
   color: #fac51c;
 }
 
+#content5-63 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-63 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-63 .mbr-article {
+  color: #fff;
+}
 #msg-box3-35 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -64,7 +75,6 @@
 #contacts1-2y UL {
   color: #fac51c;
 }
-
 
 
 
@@ -145,14 +155,6 @@
 #testimonials1-2v .mbr-reviews__author-name {
   font-size: 20px;
 }
-#pricing-table1-11 H3 {
-  text-align: center;
-  font-size: 20px;
-}
-#pricing-table1-11 .mbr-plan__details UL {
-  font-size: 16px;
-  font-family: 'Montserrat', sans-serif;
-}
 #msg-box3-2w .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -178,66 +180,6 @@
   color: #fac51c;
 }
 #contacts1-u UL {
-  color: #fac51c;
-}
-#msg-box1-4q .mbr-header .mbr-header__text {
-  color: #fff;
-}
-#msg-box1-4q .mbr-article {
-  color: #fff;
-}
-#menu-4h .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-4h.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-4h .mbr-navbar__section {
-  background: #000000;
-}
-#menu-4h .mbr-navbar__hamburger {
-  color: #1abc9c;
-}
-#menu-4h .mbr-brand__name a {
-  font-size: 24px;
-}
-#menu-4h .mbr-navbar__items a {
-  font-size: 14px;
-}
-#contacts1-4i P {
-  color: #fac51c;
-}
-#contacts1-4i UL {
-  color: #fac51c;
-}
-#menu-4j .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-4j.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-4j .mbr-navbar__section {
-  background: #000000;
-}
-#menu-4j .mbr-navbar__hamburger {
-  color: #1abc9c;
-}
-#menu-4j .mbr-brand__name a {
-  font-size: 24px;
-}
-#menu-4j .mbr-navbar__items a {
-  font-size: 14px;
-}
-#msg-box1-4o .mbr-header .mbr-header__text {
-  color: #fff;
-}
-#msg-box1-4o .mbr-article {
-  color: #fff;
-}
-#contacts1-4k P {
-  color: #fac51c;
-}
-#contacts1-4k UL {
   color: #fac51c;
 }
 #menu-3q .mbr-brand__name {
