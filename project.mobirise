@@ -249,14 +249,14 @@
           "title1": "STANDARD",
           "currency1": "$",
           "price1": "500",
-          "period1": "per year",
-          "list1": "<ul><li><b>Includes service and upgrades</b></li><li><b>Unlimited Use</b></li><li><span style=\"font-size: 14px;\"><b>Renewal discounted</b></span></li><li><span style=\"font-size: 14px;\"><b><br></b></span><br></li></ul>",
+          "period1": "",
+          "list1": "<ul><li><b>Annual charge</b></li><li><b>Includes service and upgrades</b></li><li><b>Unlimited Use</b></li><li><span style=\"font-size: 14px;\"><b>Renewal is discounted</b></span></li><li><span style=\"font-size: 14px;\"><b><br></b></span><br></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
           "title2": "TRIAL",
           "currency2": "$",
-          "price2": "0",
-          "period2": "per month",
-          "list2": "<ul><li><b>14 day free trial</b></li><li><b>Latest 2 years excluded</b></li><li><b>Customization not available</b></li><li><b>Limited conbimations</b></li></ul>",
+          "price2": "0<br><br>",
+          "period2": "",
+          "list2": "<ul><li><b style=\"font-size: 14px;\">14 day free trial</b><br></li><li><b>Latest 2 years excluded</b></li><li><b>Customization not available</b></li><li><b>Limited conbimations</b></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
           "title3": "PREMIUM",
           "currency3": "$",
@@ -319,8 +319,8 @@
           },
           "title": "PRICING",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><span style=\"font-size: 17px;\">We are committed to the ongoing enhancement of Seeker, and to the development of additional products.</span></p><p><span style=\"font-size: 17px;\">Annual subscription includes access to all Seeker enhancements released during the license period.&nbsp;</span></p><p><span style=\"font-size: 17px;\">Support is included in the annual charge.</span></p><p>Customization allows users to add their own portfolios, and watchlists of stocks, indexes and ETFs. There is no charge for this.</p><p>Seeker can accomodate unique customer data for stock, index and ETF pricing. Prices for doing so will be individually negotiated based on level of effort.&nbsp;</p><p><span style=\"font-size: 17px;\">Renewal will be available at the price currently offered, but existing customers are entitled to an ongoing 20% annual reduction in charges on the product that they have subscribed to.&nbsp;</span></p><p><span style=\"font-size: 17px;\">When you register you can review the terms of service, which include some limitations for trial users.&nbsp;</span><span style=\"font-size: 17px;\">When you register as a full user, we will generate unique databases for your use, and you will be forwarded to the payment module. We will activate the database when we receive confirmation, and you will be notified. Thank you in advance!</span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://iilseeker.com/Registration.aspx\" data-toolbar=\"-mbrBtnMove\">LET ME REGISTER</a>      "
+          "text": "<p><span style=\"font-size: 17px;\">Annual subscription includes support, access to all Seeker enhancements released during the license period, and customization.&nbsp;</span></p><p>Customization allows users to add their own portfolios, and watchlists of stocks, indexes and ETFs.&nbsp;</p><p>Seeker is designed to accomodate unique customer data for stocks, indexes and ETF pricing. Charges for adding and maintaining unique databases will be individually negotiated, based on level of effort.&nbsp;</p><p><span style=\"font-size: 17px;\">Renewal will be available at the price currently offered, but existing customers are entitled to an ongoing 20% annual reduction in charges on the product that they have subscribed to.&nbsp;</span></p><p><span style=\"font-size: 17px;\">When you register for full use of Seeker,</span><span style=\"font-size: 17px;\">&nbsp;we generate unique databases for your use, and you will be forwarded to the payment module. We will activate the database when we receive confirmation of payment, and you will be notified. Thank you in advance!</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"http://localhost:49177/Registration.aspx\" data-toolbar=\"-mbrBtnMove\">SIGN ME UP</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"terms.html\" data-toolbar=\"-mbrBtnMove\">TERMS OF SERVICE</a>      "
         },
         {
           "_styles": {
@@ -583,7 +583,7 @@
           },
           "title": "CORRELATION AND FACTOR ANALYSIS",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Correlation matches the actual behavior of two entities, over any timeframe. It is an alternative to sector analysis because, while sector definitions are static, correlation is dynamic. We show an example, in ‘Using Seeker’, where we correlated the Healthcare sector with itself in 2015. While some stocks track perfectly, a large number show no relationship at all! &nbsp;</p><p><br></p><p>Factor analysis evaluates the sources of performance. We use the methodology developed by Professors Fama and French at the University of Chicago to evaluate which factors drive the performance of portfolios, stocks, and indexes (see \"Technical\").&nbsp;</p><p><br></p><p>In addition to single pairs of stocks, indexes, ETFs or portfolios, Seeker processes groups of hundreds, at very high speed, to analyze entire industry-wide opportunities. It is very productive.</p><p><br></p><p>10 years of data, 2,900 stocks, 1,500 indexes, 1,300 ETF's. You can find positive and negative correlations in pairs, groups, industries and markets. Add your own portfolios and watchlists, we can even instal your own data for you to use!&nbsp;</p>",
+          "text": "<p>Style analysis investigates how investment style has changed over time using either Holdings analysis, or Returns analysis. &nbsp;Holdings analysis is based on the composition of &nbsp;the underlying investments held; returns analysis uses statistical techniques to relate actual performance and to the behavior of other indexes and investment factors. </p><p>Seeker supports returns analysis with two methods: correlation to match performance between two entities, and factor analysis to investigate the sources of performance.&nbsp;</p><p>Correlation can be compared to sector analysis, with the difference that instead of using historical sector definitions, it uses actual performance. We give an example, in ‘Using Seeker’, where we correlated the Healthcare sector with itself in 2015; while some stocks track perfectly, a large number show no relationship at all! &nbsp;</p><p><span style=\"font-size: 17px;\">In addition to single pairs of stocks, indexes, ETFs or portfolios, Seeker processes groups of hundreds, at very high speed, so that it can analyze entire industries to find opportunities in seconds. It is a very productive tool.</span></p><p>10 years of data, 2,900 stocks, 1,500 indexes, 1,300 ETF's. You can find positive and negative correlations in pairs, groups, industries and markets. Add your own portfolios and watchlists, we can even instal your own data for you to use!&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -647,7 +647,7 @@
             }
           },
           "title1": "CORRELATION",
-          "caption1": "• Period Analysis correlates stocks, portfolios, indexes and ETFs.<br>• Phase Analysis uses phase offsets to reveal leading indicators.<br>• Autocorrelation shows cyclical behavior.<br>• Portfolio Style measures changes in style over time.<br><br>See slider below for an example of Period Analysis (blue header) showing overall and sub-interval summary and detail (truncated). Other examples can be found in Using Seeker.<br><br><br><br> ",
+          "caption1": "• Period Analysis correlates stocks, portfolios, indexes and ETFs.<br>• Phase Analysis uses phase offsets to reveal leading indicators.<br>• Autocorrelation shows cyclical behavior.<br>• Portfolio Style measures changes in style over time.<br><br>The slider below (blue header) is an example of Period Analysis. It shows the overall correlation, and sub-interval summary and detail (truncated) for 3 out of 150,000 comparisons. Examples of other apps can be found in 'Using Seeker'.<br><br><br><br> ",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -667,7 +667,7 @@
             }
           },
           "title2": "FACTOR ANALYSIS",
-          "caption2": "• 3 or 5 factor analysis based on the parameters developed by University of Chicago Professors Eugene Fama and Kenenth French.<br>• Style analysis measures how factor relationships have changed over time.(in development)<br>.<br>Use slider below for an example of Factor Analysis (green header). 72% of the return of the Equity1 portfolio can be attributed to the factors RmMfr, SMB, HML but only RmMfr is significant. For more detail see Technical.<br><br><br><br><br><br>",
+          "caption2": "• 3 or 5 factor analysis based on the parameters developed by University of Chicago Professors Eugene Fama and Kenenth French.<br>• Time analysis (in development) will measure how factor coefficients have changed over time&nbsp;<br><br>The slider below (green header) is an example of Factor Analysis. It shows (R2) that 84% of the return of the Equity1 portfolio can be attributed to the factors RmMfr, SMB, HML but only RmMfr amd SMB are significant. For more detail on factors, see 'Technical'.<br><br><br><br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -763,7 +763,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/findersample-2000x281.jpg",
+                "image": "@PROJECT_PATH@/assets/images/finderoutputequity12014-2000x281.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -987,8 +987,8 @@
           },
           "title": "MORE!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>In 'Applications', 'Using Seeker', and the opportunity to run all of the Seeker apps. in real time with 'Correlation' or 'Factors', we have tried to provide you with a complete understanding of the system. If you click I WANT SEEKER we take you to prices, terms, and registration. When you register we generate the unique databases for you to use and will activate them upon payment. If you have more questions, we will be pleased to answer them if you drop us a line.&nbsp;</p>",
-          "button": "   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"prices.html\" data-toolbar=\"-mbrBtnMove\">I WANT SEEKER</a> "
+          "text": "<p>Through 'Applications', 'Using Seeker', and the opportunity to run all of the Seeker apps. in real time with 'Correlation' or 'Factors', we have tried to provide you with a complete understanding of the system. If you click SIGN ME UP we take you to prices, terms, and registration. When you register we generate the unique databases for you to use and will activate them upon payment. If you have more questions, we will be pleased to answer them if you drop us a line.&nbsp;</p>",
+          "button": "   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"prices.html\" data-toolbar=\"-mbrBtnMove\">SIGN ME UP</a> "
         },
         {
           "_styles": {
@@ -1032,8 +1032,8 @@
           },
           "title": "FREE TRIAL",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Although we have tried to give you as full an experience of Seeker as we can, some users may still wish for a trial, and we do offer a 14 day free trial with some limitations. They are that the latest two years of data are unavailable, and we limit correlation runs to less than 1M combinations. If you would like a trial. click to send us an email with your name, company name, email address and phone number, and we will set it up.&nbsp;</p>",
-          "button": "    <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://iilseeker.com/TrialRegistration.aspx\" data-toolbar=\"-mbrBtnMove\">FREE TRIAL</a>"
+          "text": "<p>Although we have tried to give you as full an experience of Seeker as we can, some users may still wish for a trial, and we do offer a 14 day free trial with some limitations. They are that the latest two years of data are unavailable; we limit correlation runs to less than 1M combinations; and customization is not available for you to enter your own watch lists and portfolios. If you would like a trial. click below&nbsp;</p>",
+          "button": "    <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://localhost/TrialRegistration.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE TRIAL</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://iilseeker.com/TrialRegistration.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TERMS OF SERVCE</a>"
         },
         {
           "_tags": [
@@ -3595,21 +3595,21 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": ""
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": ""
               },
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": ""
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": ""
               }
             }
           },
