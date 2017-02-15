@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MSeeker",
-    "currentPage": "default.html",
+    "currentPage": "prices.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -320,7 +320,7 @@
           "title": "PRICING",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><span style=\"font-size: 17px;\">Annual subscription includes support, access to all Seeker enhancements released during the license period, and customization.&nbsp;</span></p><p>Customization allows users to add their own portfolios, and watchlists of stocks, indexes and ETFs.&nbsp;</p><p>Seeker is designed to accomodate unique customer data for stocks, indexes and ETF pricing. Charges for adding and maintaining unique databases will be individually negotiated, based on level of effort.&nbsp;</p><p><span style=\"font-size: 17px;\">Renewal will be available at the price currently offered, but existing customers are entitled to an ongoing 20% annual reduction in charges on the product that they have subscribed to.&nbsp;</span></p><p><span style=\"font-size: 17px;\">When you register for full use of Seeker,</span><span style=\"font-size: 17px;\">&nbsp;we generate unique databases for your use, and you will be forwarded to the payment module. We will activate the database when we receive confirmation of payment, and you will be notified. Thank you in advance!</span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"http://localhost:49177/Registration.aspx\" data-toolbar=\"-mbrBtnMove\">SIGN ME UP</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"terms.html\" data-toolbar=\"-mbrBtnMove\">TERMS OF SERVICE</a>      "
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://iilseeker.com/Registration.aspx\" data-toolbar=\"-mbrBtnMove\">SIGN ME UP</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"terms.html\" data-toolbar=\"-mbrBtnMove\">TERMS OF SERVICE</a>      "
         },
         {
           "_styles": {
@@ -1033,7 +1033,7 @@
           "title": "FREE TRIAL",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Although we have tried to give you as full an experience of Seeker as we can, some users may still wish for a trial, and we do offer a 14 day free trial with some limitations. They are that the latest two years of data are unavailable; we limit correlation runs to less than 1M combinations; and customization is not available for you to enter your own watch lists and portfolios. If you would like a trial. click below&nbsp;</p>",
-          "button": "    <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://localhost/TrialRegistration.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE TRIAL</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://iilseeker.com/TrialRegistration.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TERMS OF SERVCE</a>"
+          "button": "    <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://iilseeker.com/TrialRegistration.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE TRIAL</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://iilseeker.com/TrialRegistration.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TERMS OF SERVCE</a>"
         },
         {
           "_tags": [
