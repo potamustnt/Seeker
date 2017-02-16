@@ -558,27 +558,47 @@
 #content5-3m .mbr-article {
   color: #fff;
 }
-#content5-3n .mbr-header .mbr-header__text {
+#content5-65 .mbr-header .mbr-header__text {
   text-align: left;
-  color: #faaf40;
-  font-size: 24px;
+  color: #404040;
 }
-#content5-3n .mbr-header .mbr-header__subtext {
+#content5-65 .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-3n .mbr-article {
+#content5-65 .mbr-article {
   color: #fff;
 }
-#content5-3o .mbr-header .mbr-header__text {
-  text-align: left;
-  color: #faaf40;
+#content5-65 .mbr-article P {
+  color: #404040;
 }
-#content5-3o .mbr-header .mbr-header__subtext {
+#content5-68 .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #404040;
+}
+#content5-68 .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-3o .mbr-article {
+#content5-68 .mbr-article {
+  color: #fff;
+}
+#content5-68 .mbr-article P {
+  color: #404040;
+}
+#content5-68 .mbr-article UL {
+  color: #404040;
+  text-align: left;
+}
+#content5-6a .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #faaf40;
+}
+#content5-6a .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-6a .mbr-article {
   color: #fff;
 }
 #content4-3p SPAN {
