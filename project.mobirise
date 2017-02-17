@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MSeeker",
-    "currentPage": "prices.html",
+    "currentPage": "support.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -127,7 +127,7 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#fac51c"
+              "color": "#553982"
             },
             "UL": {
               "color": "#fac51c"
@@ -142,7 +142,7 @@
             "bgImage": "images/bg3.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.5",
             "overlayColor": "#3C3C3C"
           },
@@ -389,7 +389,7 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#fac51c"
+              "color": "#553982"
             },
             "UL": {
               "color": "#fac51c"
@@ -404,7 +404,7 @@
             "bgImage": "images/bg3.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.5",
             "overlayColor": "#3C3C3C"
           },
@@ -1048,7 +1048,7 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#fac51c"
+              "color": "#553982"
             },
             "UL": {
               "color": "#fac51c"
@@ -1063,7 +1063,7 @@
             "bgImage": "images/bg3.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.5",
             "overlayColor": "#3C3C3C"
           },
@@ -3018,7 +3018,7 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#fac51c"
+              "color": "#553982"
             },
             "UL": {
               "color": "#fac51c"
@@ -3033,7 +3033,7 @@
             "bgImage": "images/bg3.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.5",
             "overlayColor": "#3C3C3C"
           },
@@ -3489,7 +3489,7 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#fac51c"
+              "color": "#553982"
             },
             "UL": {
               "color": "#fac51c"
@@ -3504,7 +3504,7 @@
             "bgImage": "images/bg3.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.5",
             "overlayColor": "#3C3C3C"
           },
@@ -3597,49 +3597,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#fac51c"
-            },
-            "UL": {
-              "color": "#fac51c"
-            }
-          },
-          "_anchor": "contacts1-61",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "images/footer-logo.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
-          "text2": "<p><strong>CONTACTS</strong><br>\nEmail: petergregory@computer.org<br>\nPhone: 9189SEEKER &nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;((918)973-3537<br><br></p>",
-          "text3": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "form1",
           "_styles": {
             ".btn": {
@@ -3650,11 +3607,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
             "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
@@ -3670,25 +3627,71 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": ""
+                "customTitle": "Name"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": ""
+                "customTitle": "email"
               },
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": ""
+                "customTitle": "phone"
               },
               "message": {
                 "title": "Message",
-                "customTitle": ""
+                "customTitle": "Message"
               }
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#553982"
+            },
+            "UL": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "contacts1-61",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
+          "text2": "<p><strong>CONTACTS</strong><br>\nEmail: petergregory@computer.org<br>\nPhone: 9189SEEKER &nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;((918)973-3537<br><br></p>",
+          "text3": ""
         }
       ]
     },
@@ -4231,7 +4234,7 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#fac51c"
+              "color": "#553982"
             },
             "UL": {
               "color": "#fac51c"
@@ -4246,7 +4249,7 @@
             "bgImage": "images/bg3.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.5",
             "overlayColor": "#3C3C3C"
           },
