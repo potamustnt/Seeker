@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "MSeeker",
-    "currentPage": "default.html",
+    "currentPage": "technical.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 227,
+    "uniqCompNum": 241,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -150,13 +150,16 @@
             "image": {
               "src": "images/footer-logo.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true
+              "width": 265
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
@@ -409,13 +412,16 @@
             "image": {
               "src": "images/footer-logo.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true
+              "width": 265
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
@@ -1051,7 +1057,7 @@
           "_anchor": "contacts1-u",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1063,15 +1069,22 @@
           },
           "logo": {
             "image": {
-              "src": "images/footer-logo.png",
+              "src": "@PROJECT_PATH@/assets/images/plainfooterbackground-265x158.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
-              "active": true
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
@@ -3028,13 +3041,16 @@
             "image": {
               "src": "images/footer-logo.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true
+              "width": 265
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
@@ -3496,13 +3512,16 @@
             "image": {
               "src": "images/footer-logo.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true
+              "width": 265
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
@@ -3670,6 +3689,586 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        }
+      ]
+    },
+    "technical.html": {
+      "settings": {
+        "title": "Website Maker Title",
+        "meta_descr": "Website Maker Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#1abc9c"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "24px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-6b",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#1abc9c",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bloodhound-103x128-96.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Seeker Investment Innovation LLC",
+              "link": "index.html",
+              "title": "Seeker",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Investment Innovation LLC</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"default.html\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"whatitcando.html\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"usingseeker.html\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Seeker.aspx\">Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Finder.aspx\">Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"prices.html\">Prices</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Technical.aspx\">Technical</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"support.html\" target=\"_blank\">Can We Help?</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Customize.aspx\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Login.aspx\">LogIn</a></li>    ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#faaf40"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6d",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "TECHNICAL BACKGROUND",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#404040",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6e",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398-1.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "DATA",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span style=\"font-size: 17px;\">Analysis is based on closing prices.</span><br></p><p><span style=\"font-size: 17px;\">Comparison of vendor data base values between two entities can be complicated by mistypes (non-trading days) or when there is inadequate data for comparison.</span><br></p><p><span style=\"font-size: 17px;\">To address this, Target and Match data are locked through a proprietary mathod that validates data dates against true trading dates. Values are entered against these trading dates and are only processed if they are matching pairs. Comparisons are generally discarded if data are not available for 75% of the period measured.&nbsp;</span><br></p><p><span style=\"font-size: 17px;\">Averages are based on valid non-zero values. Medians include all values.&nbsp;</span><br></p><p><span style=\"font-size: 17px;\">Important results should always be checked before use. When checking results, note that a gap in data may slide later values so that they no longer match, invalidating the analysis. Should you find an important result that is of concern, please provide the data and we will be pleased to confirm the analysis for you.&nbsp;</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "font-size": "16px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6h",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398-1.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "PORTFOLIO STYLE ANALYSIS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>The selected portfolio is correlated by interval with each index in the system. The indexes are sorted into categories (an index may be in more than one category, e.g. DJ US RealEstate will be included in the index group DJ and the sector group RealEstate). Each category is averaged by interval and charted.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "font-size": "16px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6i",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398-1.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "STOCK AND INDEX GROUPS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>The IIL standard Stock Groups are based on industry codes. IIL standard Index groups are based on the presence of the group name in the full name of the index.</p><p>&nbsp;Ticker symbols are occasionally reused; the same symbol can, for example, be used for two (or more) different companies at different times and in different sectors. When you use ticker or index groups, they are unambiguous but when you enter a stock ticker, Seeker processes all entities that match that symbol at any point in the data history. This may lead to output in which the symbols are listed but no correlations occur in the period you have selected, leading to empty records.</p><p>To find out which ticker symbols are contained in a stock or index group, select the group as a Target, and run Autocorrelation, which lists both the stock tickers and their full names.</p><p>Analysis is divided into subintervals to show how overall correlation might vary over shorter periods. This occurs because the correlation coefficient includes not only the product of the two variables being compared; it is divided by their standard deviations which, if it is small, can produce large swings in correlation. Standard deviations also become more volatile when the sample size is small, and we recommend not using intervals of less than a month (20 trading days). </p><p>In order to help understand the variability in interval performance we present a group of measurements. They include the average, high and low, the median, and the standard deviation over the subintervals. You may notice that some pairs correlate very well overall, but show a wide difference in standard deviation over subintervals. If you look at the charts of these pairs, you will see that the correlation over individual intervals is varying widely, indicating that reliance on an overall correlation factor could be questionable. When the overall correlation is high and the standard deviation is small, confidence in the overall correlation can be higher. With the exception of the first and last subintervals, each extends from the first trading day of the month to the last trading day of the month that is one subinterval later. The first subinterval starts on the first trading day on or following the From Date and includes that month. The last subinterval ends on the To Date.</p><p>Phase offsets are measured in days ahead. For example, if stock is correlated with an index with a phase difference of 20, the most recent stock is paired with the index data from 20 days ago, etc. If correlation improves over a phase offset, the index is seen as leading (or predicting) the stock.</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "font-size": "16px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6l",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398-1.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "INTERVALS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Analysis is divided into subintervals to show how overall correlation might vary over shorter periods. This occurs because the correlation coefficient includes not only the product of the two variables being compared; it is divided by their standard deviations which, if it is small, can produce large swings in correlation. Standard deviations also become more volatile when the sample size is small, and we recommend not using intervals of less than a month (20 trading days).&nbsp;</p><p><br></p><p>In order to help understand the variability in interval performance we present a group of measurements. They include the average, high and low, the median, and the standard deviation over the subintervals. You may notice that some pairs correlate very well overall, but show a wide difference in standard deviation over subintervals. If you look at the charts of these pairs, you will see that the correlation over individual intervals is varying widely, indicating that reliance on an overall correlation factor could be questionable. When the overall correlation is high and the standard deviation is small, confidence in the overall correlation can be higher. With the exception of the first and last subintervals, each extends from the first trading day of the month to the last trading day of the month that is one subinterval later. The first subinterval starts on the first trading day on or following the From Date and includes that month. The last subinterval ends on the To Date.</p><p><br></p><p>Phase offsets are measured in days ahead. For example, if stock is correlated with an index with a phase difference of 20, the most recent stock is paired with the index data from 20 days ago, etc. If correlation improves over a phase offset, the index is seen as leading (or predicting) the stock.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "font-size": "16px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6j",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398-1.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "DATA GAPS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Correlation allows you to measure two investment entities, a pair of tocks, or a stock and an index, or a stock and an ETF, or two portfolios over time. A correlation coefficient of 1 indicates that they are perfectly matched: 0 indicates that they have no relationship; -1 indicates that they move in opposite directions to each other.</p><p> </p><p>In returns-based style analysis, correlation can be useful by allowing comparison between portfolios and indexes, for example. Indexes are defined in terms of their market composition, and if a portfolio can be correlatied with an index, then the index can characterize it.</p><p>Many investors like to use sectors to identify investments that they believe will move together in market changes; the difficulty is that today's conglomerates are in so many markets! Correlation matches stocks not on a historical definition of their business, but on actual performance. Our comparison of the healthcare market in 'Using Seeker' illustrates how diverse sector performance is! </p><p>if you want to find a stock that matches your portfolio, or to see if it really only matches an index, or you are looking for a match in a past market period, correlation is very effective, but it has other properties. If you advance the timing of one of the two entities you are researching,, and you find that they match better when one of them is advanced, you might have an index or stock that is a leading indicator. Seeker lets you investigate offsets of up to 2 years, and you can run a comparison of your favorite stock against all 1600 indexes in seconds to find out. </p><p>A final feature of correlation is autocorrelation in which you correlate a stock or index with itself, and change the timing. If you find that the correlation improves if one is advanced then you have an entity that is cyclical, and so its performance can be predicted.&nbsp;</p><p>Seeker processes approximately 40,000 correlations/second, so it responds while you are still thinking. Very productive!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "font-size": "16px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6m",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398-1.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "MATH",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Seeker reports the Pearson product-moment correlation coefficient (ρ is usually used to refer to the measurement over a complete population, while r is used to represent measurements over a subset of the population. We refer to both as ρ in this discussion). ρ varies between +1, indicating perfect correlation; 0, reflecting no correlaton; and -1 indicating that the two distributions move orthogonally. It is calculated as follows (for reference see Pearson product-moment) and related Wikipedia articles that discuss interpretation.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;ρ = (Exy-(Ex*Ey))/(σx * σy) where Ex = expected value of x = (1/N)∑xi etc; xi, yi are matched pairs of data points at the same date, and N is the count of each.</p><p>σ is the standard deviation of xi or yi calculated by using Welford's formula for the variance calculated as</p><p>&nbsp;&nbsp;&nbsp;&nbsp;σ^2 = (1/(N*(N-1)))*[ n*Sum (xi^2) - (Sum xi)^2]&nbsp;</p><p>Covariance and correlation coefficients are calculated using N.</p><p>The regression used for factor analysis calculates a linear relationship between the factors, and the expected return over the risk-free-rate, R where&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;R = F0 + F1*RmMRfr + F2*SMB + F3*HML adding, in the 5 factor case F4*RMW + F5*CMA where F0 represents alpha, and F2 etc represent the coefficients of the factors.</p><p>It can be seen that F0 represents the expected return when all the factors are zero, and that F1, for example, represents the change expected from a 1 unit change in RmMPfr, etc. The signs of the coefficients is important, indicating whether R changes in the same direction as a given factor.&nbsp;</p><p>Seeker outputs the R2, the fraction of the variation in the result that is accounted for by the independent factors. Generally more important are the coefficients, their Standard Errors (equivalent to the standard deviation on their values), and the Probability, which measures the likelihood that the coefficient could not be zero i.e. its significance. The statistical analysis measures the assumed relationship against the possibility that the coefficients could be zero. The Probabilities show the probability that the factor coefficients are valid, and not zero: 95% is usually regarded as a solid indicator.&nbsp;</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "font-size": "16px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6n",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398-1.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "TESTING SIGNIFICANCE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Correlation indicates linear relationships, and can be used to test the hypothesis that there is or is not a linear relationship between the entities. This entails calculating</p><p><span style=\"font-size: 17px;\">t = ρ/√[(1 - ρ^2)/(N - 2)] where N&gt;= 6.</span><br></p><p><span style=\"font-size: 17px;\">t can be compared to the values of a \"t\" distribution in testing the hypothesis that the measurement comes from a larger population in which ρ = 0. i.e. one in which there is NOT a linear relationship. For example, using N = 20, which is the typical value for a Seeker month, then a value t &gt; 2.1 indicates that there is only a 5% probability that the data are NOT linked by a linear relationship. A value of 2.9 is significant at the 1% level.</span></p><p>Translating these to values of ρ for monthly values that you can read from Seeker's grids, ρ &gt;= 0.48 is significant at the 5%, and ρ &gt;= 0.67 at the 1% level. [the limiting value of ρ corresponds to K/4.36 where K is 2.1 or 2.9, and N =20.</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#404040"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "font-size": "16px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-6o",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398-1.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "CALCULATING ALPHA AND BETA",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Seeker calculates relative gain and relative volatility over intervals. Relative gain is the ratio of closing price at the end of the interval to closing price on the first day, divided by the same ratio for the Comparison stock or index. Note that high ratios can occur when the Comparison is a large index with a very small change in price over the period. </p><p>Relative volatility is the standard deviation of the Target over the interval divided by that of the Comparison. Note that very high ratios can occur when comparing to a large index fund which has a standard deviation close to zero.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fac51c"
+            },
+            "UL": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "contacts1-6c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n4734 Stratford Court #1702<br>Naples, FL 34105",
+          "text2": "<p><strong>CONTACTS</strong><br>\nEmail: petergregory@computer.org<br>\nPhone: 9189SEEKER &nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;((918)973-3537<br><br></p>",
+          "text3": ""
         }
       ]
     }
