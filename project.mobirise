@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MSeeker",
-    "currentPage": "whatitcando.html",
+    "currentPage": "default.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -2653,7 +2653,7 @@
           "title": "EXPLORE",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><span style=\"font-size: 17px;\">'Applications' suggests ideas on how you might use it.</span><br></p><p>'Using Seeker'shows how to run different applications and their output.</p><p> </p><p>'Technical' gives detail on the analytics and how to test significance.&nbsp;</p><p>'Customize' is where signed up users can add stock, index, ETF watch lists and their own portfolios.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://iilseeker/com/WhatItCanDo.aspx\" data-toolbar=\"-mbrBtnMove\">APPLICATIONS<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://iilseeker.com/UsingSeeker.aspx\" data-toolbar=\"-mbrBtnMove\">USING SEEKER</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://iilseeker.com/Technical.aspx\" data-toolbar=\"-mbrBtnMove\">TECHNICAL</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://iilseeker.com/Customize.html\" data-toolbar=\"-mbrBtnMove\">CUSTOMIZE</a> "
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"whatcanitdo.html\" data-toolbar=\"-mbrBtnMove\">APPLICATIONS<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"usingseeker.html\" data-toolbar=\"-mbrBtnMove\">USING SEEKER</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"technical.html\" data-toolbar=\"-mbrBtnMove\">TECHNICAL</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"customize.html\" data-toolbar=\"-mbrBtnMove\">CUSTOMIZE</a> "
         },
         {
           "items": [
@@ -2812,7 +2812,7 @@
           "title": "FREE TRIAL",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Although we have tried to give you as full an experience of Seeker as we can, some users may still wish for a trial, and we do offer a 14 day free trial with some limitations. They are that the latest two years of data are unavailable; we limit correlation runs to 25 seconds (approx. 1M combinations in Period Analysis, or 100K in Phase Analysis); and customization is not available for you to enter your own watch lists and portfolios. If you would like a trial, click below&nbsp;</p>",
-          "button": "    <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://iilseeker.com/TrialRegistration.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE TRIAL</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://iilseeker.com/TrialRegistration.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TERMS OF SERVCE</a>"
+          "button": "    <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://iilseeker.com/TrialRegistration.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE TRIAL</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"terms.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TERMS OF SERVCE</a>"
         },
         {
           "_tags": [
