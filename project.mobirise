@@ -2606,7 +2606,7 @@
           },
           "title": "TRY IT NOW",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Click 'Correlation' - Period Analysis to compare 562 Healthcare stocks with 1656 indexes active during 2015. You will see that these 827000 pairs produced 3 whose correlation was over 99%. See how closely some indexes tracked United Therapeutics, HCA, Owens &amp; Minor and Keryx. Would indexes with similar performance have lower volatility than stocks?</p><p>Every app. is set up to run a live example; try them all!</p>",
+          "text": "<p>Click 'Run Correlation' then Period Analysis to compare 562 Healthcare stocks with 1656 indexes active during 2015. You will see that these 827000 pairs produced 3 whose correlation was over 99%. See how closely some indexes tracked United Therapeutics, HCA, Owens &amp; Minor and Keryx. Would indexes with similar performance have lower volatility than stocks?</p><p>Click 'Run Factors' &nbsp;then Factor Analysis to see a factor analysis of all Industrial stocks.</p><p>Every app. is set up to run a live example; try them all!</p>",
           "button": "   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://localhost/Seeker.aspx\" data-toolbar=\"-mbrBtnMove\">RUN CORRELATION</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://iilseeker.com/Finder.aspx\" data-toolbar=\"-mbrBtnMove\">RUN FACTORS&nbsp;</a>"
         },
         {
