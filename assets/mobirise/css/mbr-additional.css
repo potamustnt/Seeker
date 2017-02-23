@@ -727,55 +727,27 @@
 #content5-4a .mbr-article {
   color: #fff;
 }
-#content5-4c .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-4c .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-4c .mbr-article {
-  color: #fff;
-}
-#content5-4c .mbr-article P {
-  color: #000000;
-}
-#content5-5n .mbr-header .mbr-header__text {
+#content5-8f .mbr-header .mbr-header__text {
   text-align: left;
-  color: #faaf40;
-  font-size: 24px;
+  color: #ff9933;
 }
-#content5-5n .mbr-header .mbr-header__subtext {
+#content5-8f .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-5n .mbr-article {
+#content5-8f .mbr-article {
   color: #fff;
 }
-#content5-6q .mbr-header .mbr-header__text {
+#content5-8f .mbr-article P {
+  color: #553982;
   text-align: left;
-  color: #252525;
-  font-size: 20px;
 }
-#content5-6q .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-6q .mbr-article {
-  color: #fff;
-}
-#content5-4d .mbr-header .mbr-header__text {
+#msg-box3-8g .mbr-header .mbr-header__text {
   text-align: left;
-  color: #faaf40;
-  font-size: 20px;
+  color: #ff9933;
 }
-#content5-4d .mbr-header .mbr-header__subtext {
+#msg-box3-8g .mbr-header .mbr-header__subtext {
   text-align: center;
-  color: #fff;
-}
-#content5-4d .mbr-article {
-  color: #fff;
 }
 #content5-4e .mbr-header .mbr-header__text {
   text-align: center;
@@ -791,6 +763,13 @@
 #content5-4e .mbr-article P {
   color: #553982;
 }
+#msg-box3-8k .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ff9933;
+}
+#msg-box3-8k .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
 #content5-5o .mbr-header .mbr-header__text {
   text-align: left;
   color: #fff;
@@ -802,6 +781,16 @@
 #content5-5o .mbr-article {
   color: #fff;
 }
+#content5-5o .mbr-article P {
+  color: #553982;
+}
+#msg-box3-8m .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ff9933;
+}
+#msg-box3-8m .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
 #content5-5s .mbr-header .mbr-header__text {
   text-align: left;
   color: #fff;
@@ -811,7 +800,14 @@
   color: #fff;
 }
 #content5-5s .mbr-article {
-  color: #fff;
+  color: #553982;
+}
+#msg-box3-8o .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ff9933;
+}
+#msg-box3-8o .mbr-header .mbr-header__subtext {
+  text-align: center;
 }
 #content5-5t .mbr-header .mbr-header__text {
   text-align: left;
@@ -824,16 +820,34 @@
 #content5-5t .mbr-article {
   color: #fff;
 }
-#content5-5w .mbr-header .mbr-header__text {
+#msg-box3-8x .mbr-header .mbr-header__text {
   text-align: left;
-  color: #fff;
+  color: #ff9933;
 }
-#content5-5w .mbr-header .mbr-header__subtext {
+#msg-box3-8x .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#content5-8y .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ff9933;
+}
+#content5-8y .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-5w .mbr-article {
+#content5-8y .mbr-article {
   color: #fff;
+}
+#content5-8y .mbr-article P {
+  color: #553982;
+  text-align: left;
+}
+#msg-box3-8q .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ff9933;
+}
+#msg-box3-8q .mbr-header .mbr-header__subtext {
+  text-align: center;
 }
 #content5-5v .mbr-header .mbr-header__text {
   text-align: center;
@@ -846,6 +860,16 @@
 #content5-5v .mbr-article {
   color: #fff;
 }
+#content5-5v .mbr-article P {
+  color: #553982;
+}
+#msg-box3-8s .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ff9933;
+}
+#msg-box3-8s .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
 #content5-4r .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
@@ -855,7 +879,36 @@
   color: #fff;
 }
 #content5-4r .mbr-article {
+  color: #553982;
+}
+#msg-box3-8u .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ff9933;
+}
+#msg-box3-8u .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#content5-8v .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ff9933;
+}
+#content5-8v .mbr-header .mbr-header__subtext {
+  text-align: center;
   color: #fff;
+}
+#content5-8v .mbr-article {
+  color: #fff;
+}
+#content5-8v .mbr-article P {
+  color: #553982;
+  text-align: left;
+}
+#msg-box3-8w .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ff9933;
+}
+#msg-box3-8w .mbr-header .mbr-header__subtext {
+  text-align: center;
 }
 #content5-4t .mbr-header .mbr-header__text {
   text-align: center;
@@ -868,38 +921,8 @@
 #content5-4t .mbr-article {
   color: #fff;
 }
-#content5-4w .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-4w .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-4w .mbr-article {
-  color: #fff;
-}
-#content5-4x .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-4x .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-4x .mbr-article {
-  color: #fff;
-}
-#content5-4z .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-4z .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-4z .mbr-article {
-  color: #fff;
+#content5-4t .mbr-article P {
+  color: #553982;
 }
 #content5-51 .mbr-header .mbr-header__text {
   text-align: center;
@@ -921,43 +944,6 @@
   color: #fff;
 }
 #content5-53 .mbr-article {
-  color: #fff;
-}
-#content5-5y .mbr-header .mbr-header__text {
-  text-align: left;
-  color: #fff;
-}
-#content5-5y .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-5y .mbr-article {
-  color: #fff;
-}
-#content5-55 .mbr-header .mbr-header__text {
-  text-align: left;
-  color: #fff;
-}
-#content5-55 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-55 .mbr-article {
-  color: #fff;
-}
-#content5-55 .mbr-article P {
-  font-size: 18px;
-  color: #ffffff;
-}
-#content5-58 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-58 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-58 .mbr-article {
   color: #fff;
 }
 #content5-5z .mbr-header .mbr-header__text {
@@ -1200,6 +1186,28 @@
 }
 #content5-6d .mbr-article {
   color: #fff;
+}
+#msg-box3-8d .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ff9933;
+}
+#msg-box3-8d .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#content5-8e .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ff9933;
+}
+#content5-8e .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-8e .mbr-article {
+  color: #fff;
+}
+#content5-8e .mbr-article P {
+  color: #553982;
+  text-align: left;
 }
 #content5-6e .mbr-header .mbr-header__text {
   text-align: left;

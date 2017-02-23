@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 301,
+    "uniqCompNum": 323,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -18,8 +18,8 @@
   "pages": {
     "terms.html": {
       "settings": {
-        "title": "Web Page Creator Title",
-        "meta_descr": "Web Page Creator Description"
+        "title": "Terms of use for Seeker high performance fund manager tool ",
+        "meta_descr": "Terms and conditions for using Seeker for correlation, factor analysis and  returns analysis on stocks,indexes and ETFs  Intended for hedge fund managers, portfolio managers, and fund managers seeking industy wide opportunities for beta management and hedging. Inexpensive and very fast for high productivity"
       },
       "components": [
         {
@@ -219,7 +219,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Investment Innovation LLC</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"default.html\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"whatitcando.html\" target=\"_blank\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"usingseeker.html\" target=\"_blank\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Seeker.aspx\" target=\"_blank\">Run Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Finder.aspx\" target=\"_blank\">Run Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"prices.html\" target=\"_blank\">Prices</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"technical.html\" target=\"_blank\">Technical</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"support.html\" target=\"_blank\">Can We Help?</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Customize.aspx\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Login.aspx\" target=\"_blank\">LogIn</a></li>    ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"default.html\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"whatitcando.html\" target=\"_blank\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"usingseeker.html\" target=\"_blank\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Seeker.aspx\" target=\"_blank\">Run Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Finder.aspx\" target=\"_blank\">Run Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"prices.html\" target=\"_blank\">Prices</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"technical.html\" target=\"_blank\">Technical</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/SupportMail.aspx\" target=\"_blank\">Can We Help?</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Customize.aspx\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Login.aspx\" target=\"_blank\">LogIn</a></li>    ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
         {
@@ -1974,8 +1974,8 @@
     },
     "prices.html": {
       "settings": {
-        "title": "Web Generator Title",
-        "meta_descr": "Web Generator Description"
+        "title": "Inexpensive pricing policy for Seeker high performance fund manager tool ",
+        "meta_descr": "Highly price competitive, Seeker uses correlation and factor analysis to do returns analysis on stocks,indexes and ETFs  Intended for hedge fund managers, portfolio managers, and fund managers seeking industy wide opportunities for beta management and hedging. Inexpensive and very fast for high productivity"
       },
       "components": [
         {
@@ -2183,7 +2183,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Investment Innovation LLC</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"default.html\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"whatitcando.html\" target=\"_blank\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"usingseeker.html\" target=\"_blank\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Seeker.aspx\" target=\"_blank\">Run Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Finder.aspx\" target=\"_blank\">Run Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"prices.html\" target=\"_blank\">Prices</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"technical.html\" target=\"_blank\">Technical</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"support.html\" target=\"_blank\">Can We Help?</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Customize.aspx\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Login.aspx\" target=\"_blank\">LogIn</a></li>    ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"default.html\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"whatitcando.html\" target=\"_blank\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"usingseeker.html\" target=\"_blank\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Seeker.aspx\" target=\"_blank\">Run Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Finder.aspx\" target=\"_blank\">Run Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"prices.html\" target=\"_blank\">Prices</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"technical.html\" target=\"_blank\">Technical</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/SupportMail.aspx\" target=\"_blank\">Can We Help?</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Customize.aspx\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Login.aspx\" target=\"_blank\">LogIn</a></li>    ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
         {
@@ -2237,8 +2237,8 @@
     "default.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Introduction to Seeker, a very fast returns analysis tool for fund managers",
+        "meta_descr": "Seeker uses correlation and factor analysis to do returns analysis on stocks,indexes and ETFs  Intended for hedge fund managers, portfolio managers, and fund managers seeking industy wide opportunities for beta management and hedging. Inexpensive and very fast for high productivity",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -2901,8 +2901,8 @@
     },
     "usingseeker.html": {
       "settings": {
-        "title": "Web Generator Title",
-        "meta_descr": "Web Generator Description"
+        "title": "Step by step guide to using Seeker high performance fund manager tool ",
+        "meta_descr": "Step by step examples of how Seeker uses correlation and factor analysis to do returns analysis on stocks,indexes and ETFs  Intended for hedge fund managers, portfolio managers, and fund managers seeking industy wide opportunities for beta management and hedging. Inexpensive and very fast for high productivity"
       },
       "components": [
         {
@@ -2959,7 +2959,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Investment Innovation LLC</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"default.html\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"whatitcando.html\" target=\"_blank\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"usingseeker.html\" target=\"_blank\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Seeker.aspx\" target=\"_blank\">Run Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Finder.aspx\" target=\"_blank\">Run Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"prices.html\" target=\"_blank\">Prices</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"technical.html\" target=\"_blank\">Technical</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"support.html\" target=\"_blank\">Can We Help?</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Customize.aspx\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Login.aspx\" target=\"_blank\">LogIn</a></li>    ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"default.html\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"whatitcando.html\" target=\"_blank\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"usingseeker.html\" target=\"_blank\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Seeker.aspx\" target=\"_blank\">Run Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Finder.aspx\" target=\"_blank\">Run Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"prices.html\" target=\"_blank\">Prices</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"technical.html\" target=\"_blank\">Technical</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/SupportMail.aspx\" target=\"_blank\">Can We Help?</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Customize.aspx\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Login.aspx\" target=\"_blank\">LogIn</a></li>    ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
         {
@@ -3052,7 +3052,7 @@
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "1) OVERVIEW",
+          "title": "1) OVERVIEW&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
@@ -3061,8 +3061,8 @@
           "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
+              "text-align": "left",
+              "color": "#ff9933"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -3072,73 +3072,26 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "color": "#000000"
+              "color": "#553982",
+              "text-align": "left"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-4c",
+          "_anchor": "content5-8f",
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "showTitle": false,
             "showText": true,
             "showButton": false,
             "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-2-2000x1398.jpg",
-            "bgColor": "#eb6b56",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
-          },
-          "title": "EASY TO USE!",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Originally developed for a hedge fund, Seeker uses correlation to find relationships between entities that include individual and grouped stocks, indexes, portfolios and EFTs.</p><p><span style=\"font-size: 17px;\">If, for example, the Energy sector is correlated with all 1,500 indexes available in the system, the result is 150,000 sorted pairs of correlations, depending on the period analyzed. It takes seconds to analyze.</span><br></p><p><span style=\"font-size: 17px;\">Correlation is primarily a tool for finding linear relationships: correlation does not prove causality, but as Seeker correlates on closing prices, finding that the prices of two entities follow each other with 90%+ correlation is remarkable, and you will find many that do. Our “Technical” tab discusses the significance of correlation coefficients.</span><br></p><p><span style=\"font-size: 17px;\">Sector analysis identifies a corporation with a single group identity that is usually based on its history. Because correlation is based on actual performance, it offers an alternative to sector analysis. We show two examples below:</span><br></p><p><span style=\"font-size: 17px;\">At the end of section (1) Period Analysis, we show how correlating a sector with itself exposes wide disparities in performance.&nbsp;</span><br></p><p>the second, in (4) Portfolio Style Analysis, shows how correlating with stock sector and index groups can provide an analysis of style change over time in relation to 1,500 indexes, 10 sector groups and 38 index groups.</p><p><span style=\"font-size: 17px;\">Seeker’s main features are data integrity and performance. Data integrity enables it to handle source data that may include input errors and gaps. Speed enables makes it very responsive, which increases analyst productivity, and to analyze entire industries.</span><br></p><p><span style=\"font-size: 17px;\">The standard system contains 2,900 stocks, 1,500 indexes, 1,300 ETF's, 10 stock sector groups, and 38 index groups that include index owners, like “Wilshire”; types, like “Growth”, industry and others.</span><br></p><p><span style=\"font-size: 17px;\">Seeker users work in their own data space; they can upload their own stock and index groups, watch lists, and portfolios, and can even base their correlation on different data sets, if required.</span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#faaf40",
-              "font-size": "24px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-5n",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-2-2000x1398.jpg",
-            "bgColor": "#27aae0",
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398-22.png",
+            "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3150,57 +3103,9 @@
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "2) CORRELATION OPTIONS",
+          "title": "CORRELATION",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#252525",
-              "font-size": "20px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-6q",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-2-2000x1398.jpg",
-            "bgColor": "#3399ff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
-          },
-          "title": "INPUT",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "",
+          "text": "ev<p>In this section we show a number of examples that illustrate how to use Seeker and also some of its capability.&nbsp;</p><p>We will begin with input because it is very similar for both Correlation and Factor Analysis. In both you specify the target that you want to analyze; it can be a stock, index, ETF, or a portfolio. It can also be a group: if you select Stock, for example the group fills with stock groups that you can select from (including All stocks in the system). Alternatively, for small comparisons, you can type a comma-delimited set of tickers in the lower window. If you use this, Seeker will override any group selection in the upper window; so if you are processing a group, you need to ensure that the lower window is cleared. </p><p>The match to be compared against is specified in the same way, </p><p>We then need a timescale over which to compare them, and we show the earliest date for which we have data (when you are working with two portfolios you are not using our data and so analysis can start earlier, if you have the data). In the timescale we provide subintervals; the reason for this is to break up the correlation into periods so that you can see how it veried during the overall timeperiod. We output statistical data to give you a sense of how consistent the &nbsp;subintervals are. </p><p>Finally, because the output can be large, we give options for you to pick the number of rows that you want to see, whether you want it sorted in ascending or descending order, and the column on which you want to sort. </p><p>For analysis you have 4 methods to choose from:<span style=\"font-size: 17px;\">&nbsp;</span></p><p><span style=\"font-size: 17px;\">Period Analysis correlates over the timescale and subintervals that you choose.</span></p><p><span style=\"font-size: 17px;\">Phase Analysis does not use subintervals, it moves the data of the Match forward in time in relation to the Target by up to 2 years. If correlation improves, there is the possibility that the Match is leading the price of the Target and the two should be carefully examined in Period Analysis.</span></p><p><span style=\"font-size: 17px;\">Autocorrelation uses the same approach as Phase Analysis, but uses the Target as the Natch. If shifting the Target in time in relation to itself improves correlation, its price is probably cyclical.</span></p><p><span style=\"font-size: 17px;\">The</span><span style=\"font-size: 17px;\">&nbsp;final method, Portfolio style, analyzes a Target portfolio against all our Indexes over time, showing how its correlation with industry groups changes over time.&nbsp;</span></p><p><span style=\"font-size: 17px;\">Finally, after any of the first 3 analyses, you can click Alpha or Beta to see the correlation coefficient replaced by the alpha or beta over each period, to answer the question \"correlation is all well and good, but how did they perform. Both alpha and beta are normalized to show the ratio of Target/Match.</span><span style=\"font-size: 17px;\">&nbsp;</span><span style=\"font-size: 17px;\">&nbsp; &nbsp;&nbsp;</span></p><ul><li>Period Analysis</li><li>&nbsp; Period</li></ul><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -3233,52 +3138,46 @@
           "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
-          "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "left",
-              "color": "#faaf40",
-              "font-size": "20px"
+              "color": "#ff9933"
             },
             ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
+              "text-align": "center"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-4d",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8g",
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-2-2000x1398.jpg",
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#28324e",
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
             "showMeta": false,
-            "darkBackground": true
+            "darkBackground": false
           },
-          "title": "&nbsp; &nbsp; 2.1) Period Analysis",
+          "title": "<p>2 &nbsp; &nbsp;A SIMPLE EXAMPLE</p>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_inherit": "msg-box3",
@@ -3305,8 +3204,8 @@
           "_anchor": "content5-4e",
           "_params": {
             "showCaption": "noCaption",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": false,
             "showText": true,
             "showButton": false,
@@ -3327,8 +3226,81 @@
           },
           "title": "EASY TO USE!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Seeker's first option is period analysis. A “Target” is defined that can be selected from a dropdown list that is displayed when you enter a stock, ETF, index or portfolio or, it can be entered as a single symbol, or a comma-delimited string of symbols. Seeker gives preference to manually entered items, so if there are some displayed, they override the dropdown selection. A “Match” option to compare with the Target is similarly defined. Seeker pairs, and analyzes, every possible combination of Target and Match entered, which can comprise thousands of combinations.&nbsp;</p><p>&nbsp;A timescale is defined that can cover any period within the Earliest and Latest Dates. Seeker calculates the overall correlation, but also lets you select Sub-intervals, which allow you to evaluate granularity over shorter periods. Finally, the results are sorted, and you can select an ascending sort (for positive correlation) or descending (for negative correlation) and choose the column that you want to sort. Data entry: if you target \"Stocks\", for example, a drop down list displays a list of sector groups. Users can build and upload their own watchlists that are displayed as part of this group. Or, users can type in a comma delimited list of stock, or index tickers, which is convenient for doing one-off comparisons. When the correlation analysis is complete the user can select alpha (ratio of the interval gain in closing price gain for the Target divided by that of the Matches) , or beta (ratio of the interval standard deviations of the Target, divided by that of the Matches. The results are shown in the same order in which they were correlated to make comparison easier.</p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p>In this example we use the direct entry to compare Google to the SPX during 2015, with subintervals of one month. You can see an overall correlation of -0.13 with a period average of 0.68. If you select the row, the chart shows variation over the intervals. Select File in the upper left corner of the screen (not visible in the photo) and you can save the output grid to Excel. &nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/2017-02-23-s-pa-s-goog-i-spx-2015-1-1-2000x575.png",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#000000",
+            "showBullets": false
+          },
+          "_anchor": "slider-8j",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ff9933"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8k",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "<p>2 &nbsp; &nbsp;LARGER EXAMPLE</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_inherit": "msg-box3",
@@ -3343,6 +3315,9 @@
             },
             ".mbr-article": {
               "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#553982"
             }
           },
           "_tags": [
@@ -3354,19 +3329,19 @@
             "showCaption": "noCaption",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.2,
             "overlayColor": "#28324e",
             "showMeta": false,
@@ -3374,8 +3349,81 @@
           },
           "title": "&nbsp; &nbsp; 2)Phase Analysis",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Seeker correlates the Target and Match over the designated period, then repeats the correlation by advancing the Match in time for periods from 5 days to 2 years. Phase offsets are measured in days. If, for example, a stock is correlated with an index with a phase difference of 20, the most recent stock is paired with the index data from 20 days ago, etc. If correlation improves, the index appears to be leading (or predicting) the stock. If you find a pair of interest, run a Period Analysis to check them in more detail.</p>",
+          "text": "<p>In this example, Seeker processes all stocks against all indexes. The resulting analysis includes more than 5M correlations; the output shows the top 10 (highest overall correlation).&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/2017-02-22-f-ff3-p-equity1-2014-1-1-2014-2000x700.png",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#000000",
+            "showBullets": false
+          },
+          "_anchor": "slider-8l",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ff9933"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8m",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "<p>3&nbsp; &nbsp; SECTOR EXAMPLE</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_inherit": "msg-box3",
@@ -3389,7 +3437,7 @@
               "color": "#fff"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#553982"
             }
           },
           "_tags": [
@@ -3401,19 +3449,19 @@
             "showCaption": "noCaption",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.2,
             "overlayColor": "#28324e",
             "showMeta": false,
@@ -3421,8 +3469,81 @@
           },
           "title": "&nbsp; &nbsp; 3) Autocorrelation&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>This is similar to Phase Analysis except that the correlation is run by comparing the Target with itself. With zero phase offset the correlation coefficient must be 1.0. If correlation improves at some phase offset, the stock, index or portfolio is exhibiting cyclical behavior. If you find a pair of interest, enter their symbols and run a Period Analysis to see more detail.</p>",
+          "text": "In this example we have correlated a sector, Healthcare, with itself to see how well different stocks in the sector correlate with each other. The presumption in sector analysis is that there are similarities between sector members; correlation shows a somewhat different picture. This shows the most highly correlated, the next image shows the least correlated.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/2017-02-22-f-ff3-p-equity1-2014-1-1-2014-2000x700.png",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#000000",
+            "showBullets": false
+          },
+          "_anchor": "slider-8n",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ff9933"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8o",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "<p>3a THE LEAST CORRELATED&nbsp;</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_inherit": "msg-box3",
@@ -3448,19 +3569,19 @@
             "showCaption": "noCaption",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.2,
             "overlayColor": "#28324e",
             "showMeta": false,
@@ -3468,15 +3589,88 @@
           },
           "title": "&nbsp; &nbsp; 4) Portfolio Style Analysis",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Load an existing portfolio into Seeker.Select it as the Target and choose a correlation timescale, broken down into sub-intervals. The analysis compares all 1,500 indexes with the portfolio performance over each subinterval, averaging the results by index group. The results show how the performance of the portfolio has compared to different indexes over time, reflecting the change in “style”.</p>",
+          "text": "<p>This image shows the same data, with the sort reversed on Overall correlation from descending to ascending. The lowest 10 stocks correlate lower than -0.94, i.e. they move in opposite directions to each other. Notice that the overall average is 0.12, not far from 0!</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/2017-02-22-f-ff3-p-equity1-2014-1-1-2014-2000x700.png",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#000000",
+            "showBullets": false
+          },
+          "_anchor": "slider-8p",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ff9933"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8x",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "<p>4&nbsp; &nbsp; PHASE ANALYSIS</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "left",
-              "color": "#fff"
+              "color": "#ff9933"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -3484,39 +3678,85 @@
             },
             ".mbr-article": {
               "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#553982",
+              "text-align": "left"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-5w",
+          "_anchor": "content5-8y",
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": "1",
-            "paddingBottom": "0",
-            "showTitle": true,
+            "paddingBottom": "1",
+            "showTitle": false,
             "showText": true,
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398-22.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.2,
             "overlayColor": "#28324e",
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "3) OUTPUT",
+          "title": "CORRELATION",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "",
+          "text": "<p>We included just one example of phase analysis; in this example every stock is correlated against every index through 2015.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ff9933"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8q",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "<p>5 &nbsp; FACTOR ANALYSIS</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_inherit": "msg-box3",
@@ -3531,6 +3771,9 @@
             },
             ".mbr-article": {
               "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#553982"
             }
           },
           "_tags": [
@@ -3542,19 +3785,19 @@
             "showCaption": "noCaption",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.2,
             "overlayColor": "#28324e",
             "showMeta": false,
@@ -3562,37 +3805,81 @@
           },
           "title": "1) Period Analysis",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><span style=\"font-size: 17px;\">The example is the case used to demonstrate input, a correlation of the Healthcare sector against all 1,500 indexes through 2015, using monthly sub-intervals. The Period Analysis output is a grid, showing each pair of correlated entities at the left, with their type. Matches are often indexes, and as their symbols are more cryptic, we included at the right-hand side of the screen a reference pull-down that contains all the indexes in the system (we also list the ETF's). The grid is sorted on Overall correlation but any of the columns may be selected.</span><br></p><p>&nbsp;</p><p>&nbsp;</p><p><br></p>",
+          "text": "<p><span style=\"font-size: 17px;\">In factor analysis the Match is replaced by market data representing the overall monthly values of the factors defined. There analytical model, Fama-French, with the option of using 3 or &nbsp;5 factors. &nbsp;</span></p><p><span style=\"font-size: 17px;\">The example is from a test portfolio, \"Equity1\" measured over 2014 because the data ends in late 2015. R2 shows that 84% of the portfolio's growth can be attributed to the three factors, and that the annual alpha (gain over the risk free rate) was 5.3%. The small Standard Error values show that the RmMRfr and SMB values have a very high probability of being good indicators, and so the fund is benefiting from its complement of small cap. stocks.</span><span style=\"font-size: 17px;\">&nbsp;</span></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-4f",
+          "_name": "slider",
           "_params": {
-            "outside": false,
-            "bgColor": "#252525",
-            "showText": false
+            "autoplay": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/2017-02-22-f-ff3-p-equity1-2014-1-1-2014-2000x700.png",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#000000",
+            "showBullets": false
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2016-10-21-seekergridhealthcarevsall-1400x411.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+          "_anchor": "slider-8r",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ff9933"
             },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8s",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "<p>6 &nbsp; &nbsp;MORE COMPLEX FACTOR EXAMPLE</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_inherit": "msg-box3",
@@ -3606,7 +3893,7 @@
               "color": "#fff"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#553982"
             }
           },
           "_tags": [
@@ -3623,22 +3910,146 @@
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
+            "overlay": false,
+            "overlayOpacity": "0",
             "overlayColor": "#28324e",
             "showMeta": false,
             "darkBackground": true
           },
           "title": "EASY TO USE!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>The top row is the average of the analysis. The 168 Healthcare stocks and 1,500 indexes yielded 250,000 active results during 2015. They are sorted on Overall correlation. The number of rows to be displayed, and the column to sort, can be selected.</p><p>The leftmost columns show a \"Select\" column that is used to select the row for charting. The \"Overall\" data column shows the overall correlation over the entire period, and then the results are shown for 12 monthly sub-intervals, with their average, median, high and low values, followed by the result for each interval.</p><p>Once the analysis is run, you have two choices, select a row and chart it, or you can do an Alpha or Beta analysis on the grid. To look at the charts, Select a row in the grid, then click \"Select, then Chart\".</p><p>You will occasionally find a cell with \"NaN\" (not a number) which is Seeker's way of indicating that it could not calculate a value for that interval.</p><p>The 168 Healthcare stocks and 1,500 indexes yielded 250,000 active results during 2015. They are sorted on Overall correlation. The number of rows to be displayed, and the column to sort, can be selected.</p><p>This second example of Period Analysis shows the Barclays group of ETF's compared against all Indexes. The top line shows EBND correlated with @BKLA-I at 98% overall; we also show the pulldown for Indexes which shows that BKLA-I is the Bony Latin America Adr Index. (A second pulldown shows the full names of the ETF's available.</p><p><br></p>",
+          "text": "Factor analysis provides the same options for processing large groups. In this example we show all indexes in our system but just the top 10 are shown out of 1656. The sort is R2.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/2017-02-22-f-ff3-i-all-2014-1-1-2000x974.png",
+                "contentAlign": "left",
+                "overlay": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#000000",
+            "showBullets": false
+          },
+          "_anchor": "slider-8t",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ff9933"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8u",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "<p>7 &nbsp; &nbsp;INDEX AND ETF NAMES</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ff9933"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#553982",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-8v",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398-22.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "CORRELATION",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Sometimes users want to clarify the groups and need help identifying an index or an ETF. When you run a Seeker analysis the right hand margin shows two pull-downs, one for indexes, and one for ETF's. If you click either, a drop-down show an alphabetic list of their symbols and full names.&nbsp;</p><p>If you need to know which stocks are included in a stock or index group, select Autocorrelation, and the group name as a target. Run the analysis with any date, and the result will list constituent symbols.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -3671,6 +4082,48 @@
           "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ff9933"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8w",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "<p>8 &nbsp; CHARTS</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
@@ -3683,6 +4136,9 @@
             },
             ".mbr-article": {
               "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#553982"
             }
           },
           "_tags": [
@@ -3699,14 +4155,14 @@
             "showButton": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.2,
             "overlayColor": "#28324e",
             "showMeta": false,
@@ -3714,231 +4170,7 @@
           },
           "title": "EASY TO USE!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><br></p><p>A third example of Period Analysis shows a portfolio selected as the Target and All Stocks as the Match. This correlates the performance of the portfolio with all 2,900 stocks currently in the system. The purpose is to look for new stocks that performed similarly to the portfolio. The selection could have been limited to \"stocks in a particular sector\", for example, or the data could have been sorted \"Overall Ascending\" which would have shown those stocks that behaved least like the portfolio and might therefore be used as shorts.&nbsp;</p><p>&nbsp;The comparison is over 2014 (since data for our sample portfolio ends early in 2015). It shows that more than 50 stocks correlated at over 70%, with a high of 77%. If you want to know what level of correlation is significant in trending, see the discussion on the \"Technical\" tab.&nbsp;</p><p>&nbsp;<span style=\"font-size: 17px;\">&nbsp;</span></p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-4v",
-          "_params": {
-            "outside": false,
-            "bgColor": "#252525",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-4w",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showTitle": false,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
-          },
-          "title": "EASY TO USE!",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "If we go back to the first example, showing Healthcare, and click on “Alpha” ratio, you will see the following grid, redrawn with correlation values replaced by the ratio of the Target gain over that of the Match for each period. The gain for each is the ratio of the value at the end of the interval divided by the value at the start of the interval. If the grid shows an interval value of 1.5, that implies that the Target gained 50% more than the Match over the period.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-4u",
-          "_params": {
-            "outside": false,
-            "bgColor": "#252525",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2016-10-21-alpha-healthcarevsall-1400x228.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-4x",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showTitle": false,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
-          },
-          "title": "EASY TO USE!",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>If you click on “Beta” ratio, the grid is redrawn with correlation values replaced by the ratio of the Target standard deviation over that of the Match for each period. As standard deviations reflect price, they are normalized by the average price over the period. If the grid shows an interval value of 2, for example, that implies that in that period, the Target was twice as volatile as the Match, compared to their underlying prices.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-4y",
-          "_params": {
-            "outside": false,
-            "bgColor": "#252525",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2016-10-21-beta-healthcarevsall-1400x276.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-4z",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showTitle": false,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
-          },
-          "title": "EASY TO USE!",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>[NOTE] Standard deviation is often referred to as \"volatility\". This can be misleading because the standard deviation knows nothing about the trend, so a growth stock that climbs steadily can have the same standard deviation as one that steadily falls, or another that simply fluctuates about a constant value. A stock that climbs steadily will be scored as volatile, even though it may have steadily grown in value every week!]&nbsp;</p><p>&nbsp;Any of the grids in Seeker can be output to Excel (complete! They are not limited by the number of rows selected for display).&nbsp;</p><p><br></p><p>&nbsp;Charting options for Period Analysis address the following questions:&nbsp;</p><p>&nbsp;a) If overall correlation is good, how closely were the prices of the two entities matched throughout</p>",
+          "text": "<p><br></p><p>Finally, Seeker has charting ability in Correlation for Period Analysis and Portfolio Style.&nbsp;</p><p>&nbsp;<span style=\"font-size: 17px;\">&nbsp;</span></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -4107,209 +4339,6 @@
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/2016-10-21-seekeroutput-regression-1400x885.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-5y",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
-          },
-          "title": "HOW WELL DO SECTORS CORRELATE?",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            },
-            ".mbr-article P": {
-              "font-size": "18px",
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-55",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
-          },
-          "title": "",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><span style=\"font-size: 18px;\">The following charts show the Healthcare sector correlated with itself during 2015. Stocks in a sector are assumed to perform similarly, and the first chart shows that there are many that matched very well. Note that Seeker automatically prevents autocorrelation because it confuses group comparison, and is provided as a separate Seeker mode.</span><br></p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-57",
-          "_params": {
-            "outside": false,
-            "bgColor": "#252525",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2016-12-03-healthcaresectorcomparisonhicorrelation-1400x713.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-58",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showTitle": false,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
-          },
-          "title": "EASY TO USE!",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>But when the correlation grid is sorted in ascending order, it shows that many of the stocks in the sector had correlation of -0.9 indicating that the match did almost the opposite of the target. It shows that you cannot assume that sector stocks can be relied upon to produce similar performance. The overall average across the sector was only 0.15!&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-59",
-          "_params": {
-            "outside": false,
-            "bgColor": "#252525",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2016-12-03-healthcaresectorcomparisonlowcorrelation-1400x759.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -4927,8 +4956,8 @@
     },
     "whatitcando.html": {
       "settings": {
-        "title": "Site Creator Title",
-        "meta_descr": "Site Creator Description"
+        "title": "How Seeker can help fund managers do returns analysis with correlation and factor analysis",
+        "meta_descr": "How to use Seeker for  correlation and factor analysis to do returns analysis on stocks,indexes and ETFs  Intended for hedge fund managers, portfolio managers, and fund managers seeking industy wide opportunities for beta management and hedging. Inexpensive and very fast for high productivitydea"
       },
       "components": [
         {
@@ -4985,7 +5014,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Investment Innovation LLC</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"default.html\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"whatitcando.html\" target=\"_blank\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"usingseeker.html\" target=\"_blank\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Seeker.aspx\" target=\"_blank\">Run Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Finder.aspx\" target=\"_blank\">Run Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"prices.html\" target=\"_blank\">Prices</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"technical.html\" target=\"_blank\">Technical</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"support.html\" target=\"_blank\">Can We Help?</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Customize.aspx\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Login.aspx\" target=\"_blank\">LogIn</a></li>    ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"default.html\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"whatitcando.html\" target=\"_blank\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"usingseeker.html\" target=\"_blank\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Seeker.aspx\" target=\"_blank\">Run Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Finder.aspx\" target=\"_blank\">Run Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"prices.html\" target=\"_blank\">Prices</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"technical.html\" target=\"_blank\">Technical</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/SupportMail.aspx\" target=\"_blank\">Can We Help?</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Customize.aspx\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Login.aspx\" target=\"_blank\">LogIn</a></li>    ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
         {
@@ -5136,7 +5165,7 @@
           },
           "title": "FACTOR ANALYSIS",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Correlation measures similarity of performance but can not explain why it happens: we can find which stocks tend to have similar performance, or which indexes behave like selected stocks, and we can show how these similarlties are preserved over time, but not why. </p><p>Regression enables us to compare performance against parameters that might be contributory, and is used to try to isolate whether changes in performance are unique to the entity and its management, or may be explained by factors that are known to influence performance, such as the fact that small cap stocks tend to outperform large caps. This analysis depends on defining which factors might be useful, and on data that enables us to isolate their effects. </p><p>There are a number of factor models; Seeker uses the <a href=\"http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/f-f_factors.html\">Fama-French model</a> developed by Professors Eugene Fama and Kenneth French at the University of Chicago. This 3-factor model originated from the observation that all stocks tend to benefit from a rising tide; that small cap stocks grow faster than large caps; and that value stocks tend to outperform growth stocks over time.&nbsp;</p><p>The resulting research at the University of Chicago produced a linear definition of performance in which the contribution of the factors could be isolated, and a <a href=\"http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html\">library of historical data</a> that measures the performance over time of stocks that reflect each factor. The model and the data enable the performance of a portfolio to be analyzed over time to measure how much of a contribution each factor may have provided. </p><p>The original 3-factor model was enhanced to 5 in 2015, and Seeker supports both. </p><p>The analysis provides </p><ul><li>R2, a coefficient that indicates the overall contribution of the factors to the result.</li><li>the intercept of the regression line that represents alpha, the annualized excess gain over the risk free investment rate.</li><li>an overall measurement of the extent to which the performance of the portfolio can be attributed to the factors, The remainder is a measurement of the manager's skill.</li><li> the weighting to be applied to each factor, </li><li>the \"standard error\" for each weighting to measure how consistent the analysis is, </li><li>the probability that the weighting is significant (typically around 95%).</li></ul><p>So what are the factors? Their names are cryptic - in the 3-factor model they are:</p><ul><li>RmMRfr&nbsp; &nbsp; the Return (monthly) of the portfolio Minus the \"risk free rate\" (of short-term Treasuries). Measures sensitivity to the market as a whole.</li><li>SMB&nbsp; &nbsp; Small cap Minus Big&nbsp;cap. Measures sensitivity to small caps.</li><li>&nbsp;HML&nbsp; &nbsp;High Minus Low. Measures high book to price (Value) minus low (Growth)</li></ul><p>In 5 factor analysis, the additional factors are\"</p><ul><li>RMW&nbsp; &nbsp; Robust profitability Minus Weak.&nbsp;</li><li>CMA&nbsp; &nbsp; Conservative Minus Aggressive approachour equities to investment in the US.</li></ul><p> </p><p>The result of the analysis shows R2, a measurement of the extent tothe &nbsp;which performance can be attributed to the factors (the remainder being a reflection of management skill). Then for each factor, plus the gain, it shows the weighting for each factor that was optimal; the standard error (similar to a standard deviation of the weighting); and the statistical significance of the result for the factor, measured as the percentage probability that the contribution of the factor is not random.</p><p>Because Seeker supports analysis on large groups, you can run factor analysis on the entire Wilshire 5000, in seconds, and sort the results by the factors, to see the populations that match each.&nbsp;</p>",
+          "text": "<p>Correlation measures similarity of performance but can not explain why it happens: we can find which stocks tend to have similar performance, or which indexes behave like selected stocks, and we can show how these similarlties are preserved over time, but not why. </p><p>Regression enables us to compare performance against parameters that might be contributory, and is used to try to isolate whether changes in performance are unique to the entity and its management, or may be explained by factors that are known to influence performance, such as the fact that small cap stocks tend to outperform large caps. This analysis depends on defining which factors might be useful, and on data that enables us to isolate their effects. </p><p>There are a number of factor models; Seeker uses the <a href=\"http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/f-f_factors.html\">Fama-French model</a> developed by Professors Eugene Fama and Kenneth French at the University of Chicago. This 3-factor model originated from the observation that all stocks tend to benefit from a rising tide; that small cap stocks grow faster than large caps; and that value stocks tend to outperform growth stocks over time.&nbsp;</p><p>The resulting research at the University of Chicago produced a linear definition of performance in which the contribution of the factors could be isolated, and a library of historical data that measures the performance over time of stocks that reflect each factor. The model and the data enable the performance of a portfolio to be analyzed over time to measure how much of a contribution each factor may have provided. </p><p>The original 3-factor model was enhanced to 5 in 2015, and Seeker supports both. </p><p>The analysis provides </p><ul><li>R2, a coefficient that indicates the overall contribution of the factors to the result.</li><li>the intercept of the regression line that represents alpha, the annualized excess gain over the risk free investment rate.</li><li>an overall measurement of the extent to which the performance of the portfolio can be attributed to the factors, The remainder is a measurement of the manager's skill.</li><li> the weighting to be applied to each factor, </li><li>the \"standard error\" for each weighting to measure how consistent the analysis is, </li><li>the probability that the weighting is significant (typically around 95%).</li></ul><p>So what are the factors? Their names are cryptic - in the 3-factor model they are:</p><ul><li>RmMRfr&nbsp; &nbsp; the Return (monthly) of the portfolio Minus the \"risk free rate\" (of short-term Treasuries). Measures sensitivity to the market as a whole.</li><li>SMB&nbsp; &nbsp; Small cap Minus Big&nbsp;cap. Measures sensitivity to small caps.</li><li>&nbsp;HML&nbsp; &nbsp;High Minus Low. Measures high book to price (Value) minus low (Growth)</li></ul><p>In 5 factor analysis, the additional factors are\"</p><ul><li>RMW&nbsp; &nbsp; Robust profitability Minus Weak.&nbsp;</li><li>CMA&nbsp; &nbsp; Conservative Minus Aggressive approachour equities to investment in the US.</li></ul><p> </p><p>The result of the analysis shows R2, a measurement of the extent tothe &nbsp;which performance can be attributed to the factors (the remainder being a reflection of management skill). Then for each factor, plus the gain, it shows the weighting for each factor that was optimal; the standard error (similar to a standard deviation of the weighting); and the statistical significance of the result for the factor, measured as the percentage probability that the contribution of the factor is not random.</p><p>Because Seeker supports analysis on large groups, you can run factor analysis on the entire Wilshire 5000, in seconds, and sort the results by the factors, to see the populations that match each.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -5402,8 +5431,8 @@
     },
     "support.html": {
       "settings": {
-        "title": "Site Generator Title",
-        "meta_descr": "Site Generator Description"
+        "title": "User support for Seeker high performance fund manager tool ",
+        "meta_descr": "User help in using Seeker for correlation, factor analysis and returns analysis on stocks,indexes and ETFs  Intended for hedge fund managers, portfolio managers, and fund managers seeking industy wide opportunities for beta management and hedging. Inexpensive and very fast for high productivity"
       },
       "components": [
         {
@@ -5567,8 +5596,8 @@
     },
     "technical.html": {
       "settings": {
-        "title": "Website Maker Title",
-        "meta_descr": "Website Maker Description"
+        "title": "Technical background on Seeker high performance fund manager tool ",
+        "meta_descr": "Technical background on how Seeker uses correlation and factor analysis to do returns analysis on stocks,indexes and ETFs  Intended for hedge fund managers, portfolio managers, and fund managers seeking industy wide opportunities for beta management and hedging. Inexpensive and very fast for high productivity"
       },
       "components": [
         {
@@ -5625,7 +5654,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Investment Innovation LLC</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"default.html\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"whatitcando.html\" target=\"_blank\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"usingseeker.html\" target=\"_blank\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Seeker.aspx\" target=\"_blank\">Run Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Finder.aspx\" target=\"_blank\">Run Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"prices.html\" target=\"_blank\">Prices</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"technical.html\" target=\"_blank\">Technical</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"support.html\" target=\"_blank\">Can We Help?</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Customize.aspx\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Login.aspx\" target=\"_blank\">LogIn</a></li>    ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"default.html\">HOME</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"whatitcando.html\" target=\"_blank\">Applications</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"usingseeker.html\" target=\"_blank\">Using Seeker</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Seeker.aspx\" target=\"_blank\">Run Correlation</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Finder.aspx\" target=\"_blank\">Run Factors</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"prices.html\" target=\"_blank\">Prices</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"technical.html\" target=\"_blank\">Technical</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/SupportMail.aspx\" target=\"_blank\">Can We Help?</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://iilseeker.com/Customize.aspx\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>Customize</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://iilseeker.com/Login.aspx\" target=\"_blank\">LogIn</a></li>    ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
         {
@@ -5673,6 +5702,99 @@
           "title": "TECHNICAL BACKGROUND",
           "meta": "By John Smith posted July 30, 2015",
           "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ff9933"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8d",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "<p>CORRELATION, REGRESSION AND FACTOR ANALYSIS</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ff9933"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#553982",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-8e",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cyrus-1-2000x1398-22.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "CORRELATION",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Originally developed for a hedge fund, Seeker uses correlation to find relationships between entities that include individual and grouped stocks, indexes, portfolios and EFTs.</p><p>If, for example, the Energy sector is correlated with all 1,500 indexes available in the system, the result is 150,000 sorted pairs of correlations, depending on the period analyzed. It takes seconds to analyze.</p><p>Correlation is primarily a tool for finding linear relationships: correlation does not prove causality, but as Seeker correlates on closing prices, finding that the prices of two entities follow each other with 90%+ correlation is remarkable, and you will find many that do.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
